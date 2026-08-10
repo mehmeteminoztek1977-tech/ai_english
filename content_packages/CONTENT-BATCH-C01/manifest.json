@@ -1,0 +1,106 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "generated_on": "2026-08-10",
+  "status": "CONTENT_GENERATION_COMPLETED_INTEGRATION_PENDING",
+  "validation": "PASS_WITH_RELEASE_GATES",
+  "counts": {
+    "lessons": 10,
+    "vocabulary": 100,
+    "sentences": 100,
+    "questions": 50,
+    "dialogues": 10,
+    "daily_tasks": 10,
+    "videos": 20,
+    "subtitle_tracks": 20,
+    "subtitle_cues": 72,
+    "audio_recording_queue": 230,
+    "actual_audio_assets": 0
+  },
+  "files": [
+    {
+      "file_name": "CONTENT-BATCH-C01.json",
+      "size_bytes": 342025,
+      "sha256": "5d75269ec5a3929d4eeeac73117c364bb534b06e9aa5a0508e62b3d391a2ed2c"
+    },
+    {
+      "file_name": "CONTENT-BATCH-C01.schema.json",
+      "size_bytes": 4313,
+      "sha256": "03088efa7585e5372568994103aaeb283f5576a27eb65c86f167114c0e7bfcef"
+    },
+    {
+      "file_name": "GEMINI_TECHNICAL_HANDOFF.md",
+      "size_bytes": 1960,
+      "sha256": "229ec6c5150409a2cc465729b7a51c337332e201a4d86793bb0a304cf578a776"
+    },
+    {
+      "file_name": "README.md",
+      "size_bytes": 3456,
+      "sha256": "acd13df2604d1a80b3953699e8aded0c2ace3ef70361dc41fc7f0e4c3015fd11"
+    },
+    {
+      "file_name": "VALIDATION_REPORT.json",
+      "size_bytes": 5119,
+      "sha256": "6759890f359ceb6796964cc1407813d0880dcc936d267713c0b0a5ddbf1e7f7e"
+    },
+    {
+      "file_name": "assessments.json",
+      "size_bytes": 25623,
+      "sha256": "0d34a48b4562801bec2f25e5a980c3ce8e5ed9e58602336db269b774f9a80502"
+    },
+    {
+      "file_name": "audio_assets_manifest.json",
+      "size_bytes": 114849,
+      "sha256": "bff530354ab64c1f6d50b6b034fa048bf7cd0d47f8dfacd98ac504408ff5f79c"
+    },
+    {
+      "file_name": "daily_tasks.json",
+      "size_bytes": 7808,
+      "sha256": "947b349ebde86ea729b25b81df79ec5fc7cc34bab1554c3e0c6db0682dd3904d"
+    },
+    {
+      "file_name": "dialogues.json",
+      "size_bytes": 13929,
+      "sha256": "753627215fa77e0e2ac3833b62eb162900e2a918768257329f15f5393999a584"
+    },
+    {
+      "file_name": "example_sentences.json",
+      "size_bytes": 44063,
+      "sha256": "16f08e2259d28190b2ff0beb4f325d337aceeb096c2f077642579cb28200e389"
+    },
+    {
+      "file_name": "lessons.json",
+      "size_bytes": 20191,
+      "sha256": "f1a741d0c02624027412248e7d3322ef01e8263e27ed44499c7256742bd84da9"
+    },
+    {
+      "file_name": "references/CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "size_bytes": 34589,
+      "sha256": "16eb7b37774708008e574c8b5e776c600004b629ae627f41d751e86ed1444615"
+    },
+    {
+      "file_name": "subtitles.json",
+      "size_bytes": 26366,
+      "sha256": "d2d6dda83e0ae055b63657f856cacdffcf467b1fa7e243658c443bb4d75128fe"
+    },
+    {
+      "file_name": "video_scripts.json",
+      "size_bytes": 39543,
+      "sha256": "b12582e5b5b5a7d21e3b92acbd9221aa15f44cda9aac4a97f99aa18dafb33b25"
+    },
+    {
+      "file_name": "vocabulary_pool.json",
+      "size_bytes": 42506,
+      "sha256": "65abacb49aa4f2070f1774192060710f14f39bf545d73b7e1df529b28a12da09"
+    }
+  ],
+  "release_gates": [
+    "İnsan dil editörü ve pedagojik inceleme",
+    "Gemini toplu şema doğrulaması",
+    "Mevcut bulut veritabanına import",
+    "Bulut kayıt sayısı ve geri okuma doğrulaması",
+    "Gerçek ses dosyalarının üretimi ve teknik kalite kontrolü",
+    "Debug APK üzerinde içerik görüntüleme ve etkileşim testi",
+    "10 kişilik BETA-TUR-01 kabulü"
+  ]
+}

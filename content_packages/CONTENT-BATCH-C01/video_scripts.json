@@ -1,0 +1,1026 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "video_id": "c01_video_01_a",
+      "lesson_id": "CORE-E1-W1-L1",
+      "part": "A",
+      "title_tr": "İsmin Merkezini Bul — Gör ve Çöz",
+      "target_duration_seconds": 400,
+      "production_mode": "LOCKED_EXISTING_FULL_SCRIPT_REFERENCE",
+      "carry_forward_reference": "CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 99750,
+          "narration_tr": "Ekranda üç kelime görüyoruz: two, blue, books. Önce grubun tamamına bak. Grup birden fazla bilgi verir; fakat ne olduğunu söyleyen tek bir merkez vardır.",
+          "on_screen_text": "two blue books",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 100000,
+          "end_ms": 199750,
+          "narration_tr": "Books nesnenin adıdır. Two kaç tane olduğunu, blue ise nasıl göründüğünü anlatır. Bu nedenle books grubun merkez ismidir.",
+          "on_screen_text": "miktar + sıfat + merkez isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 200000,
+          "end_ms": 299750,
+          "narration_tr": "Şimdi three red bags grubunu çöz. Three miktarı, red özelliği, bags ise nesnenin adını verir. Merkez isim bags olur.",
+          "on_screen_text": "three red bags",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 300000,
+          "end_ms": 400000,
+          "narration_tr": "INT-01 noktasında videoyu durdur ve two blue books grubunda merkez ismi seç. Grup aslında neyi adlandırıyor?",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-01 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "LOCKED_PROJECT_CONTENT_CARRY_FORWARD",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_01_b",
+      "lesson_id": "CORE-E1-W1-L1",
+      "part": "B",
+      "title_tr": "İsmin Merkezini Bul — Dönüştür ve Kur",
+      "target_duration_seconds": 330,
+      "production_mode": "LOCKED_EXISTING_FULL_SCRIPT_REFERENCE",
+      "carry_forward_reference": "CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 81750,
+          "narration_tr": "Two blue books ifadesinde blue yerine red koyarsak ayrıntı değişir; merkez isim yine books kalır.",
+          "on_screen_text": "two blue books",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 82000,
+          "end_ms": 163750,
+          "narration_tr": "Miktarı three yapınca three blue books elde ederiz. Bilgi değişir, fakat grubun ne olduğunu söyleyen books yine merkezdir.",
+          "on_screen_text": "miktar + sıfat + merkez isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 164000,
+          "end_ms": 245750,
+          "narration_tr": "Kendi grubunu kur: önce bir miktar, sonra bir özellik, en sona nesnenin adını getir. Örneğin two small bags.",
+          "on_screen_text": "three red bags",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 246000,
+          "end_ms": 330000,
+          "narration_tr": "Ayrıntılar değişebilir; merkez isim grubun ne olduğunu söyler. Gör, çöz, dönüştür ve kendi grubunu kur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "LOCKED_PROJECT_CONTENT_CARRY_FORWARD",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_02_a",
+      "lesson_id": "CORE-E1-W1-L2",
+      "part": "A",
+      "title_tr": "Tek mi, Çok mu? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Bir nesne gördüğümüzde one apple deriz. Merkez isim apple tekil kalır. Sayı birden büyük olduğunda isim çoğul biçime geçer.",
+          "on_screen_text": "one apple",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Four oranges ifadesinde four sayıyı, oranges nesneleri söyler. Orange kelimesine çoğul s sesi eklenmiştir.",
+          "on_screen_text": "one + tekil isim / sayı + çoğul isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Box kelimesi s sesiyle bittiği için çoğulda boxes olur. Yazım değişse de merkez isim nesnenin adıdır.",
+          "on_screen_text": "four boxes",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Ekrandaki seçeneklerden four boxes ifadesini seç. Sayı ile ismin biçiminin uyumunu kontrol et.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-02 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_02_b",
+      "lesson_id": "CORE-E1-W1-L2",
+      "part": "B",
+      "title_tr": "Tek mi, Çok mu? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "One child ve four children örneklerini karşılaştır. Child düzensizdir; sadece s eklemeyiz, children biçimini kullanırız.",
+          "on_screen_text": "one apple",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Person kelimesinin yaygın çoğulu people olur. Bu iki biçimi ayrı birer kelime gibi örnek içinde tekrar et.",
+          "on_screen_text": "one + tekil isim / sayı + çoğul isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "One box ifadesini four ile başlat: four boxes. One apple ifadesini three ile başlat: three apples.",
+          "on_screen_text": "four boxes",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Çevrenden üç nesne seç. Önce one ile tekil, sonra bir sayı ile çoğul grup kur. Sesli söyle ve yaz.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_03_a",
+      "lesson_id": "CORE-E1-W1-L3",
+      "part": "A",
+      "title_tr": "A mı, An mı? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Bir şeyi ilk kez ve tekil olarak tanıtırken a veya an kullanabiliriz. Seçimi yazıdaki ilk harften çok duyduğumuz ilk sese göre yaparız.",
+          "on_screen_text": "a red pen",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Pen p sesiyle başlar; a pen deriz. Umbrella ünlü bir sesle başlar; an umbrella deriz.",
+          "on_screen_text": "a/an + tekil isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "A student ve an artist örneklerini dinle. Artikel kısa söylenir ama ismin önünde açıkça yer alır.",
+          "on_screen_text": "an old umbrella",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Ekranda an apple seçeneğini bul. Apple ünlü bir sesle başladığı için an doğru eşleşmedir.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-03 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_03_b",
+      "lesson_id": "CORE-E1-W1-L3",
+      "part": "B",
+      "title_tr": "A mı, An mı? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "A red pen ifadesinde pen yerine umbrella koyarsan artikel de değişir: an umbrella veya an old umbrella dersin.",
+          "on_screen_text": "a red pen",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Mesleklerde de aynı kural çalışır: a teacher, a doctor, an artist. Merkez isim mesleğin adıdır.",
+          "on_screen_text": "a/an + tekil isim",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "İki kart kur: birinde a ile başlayan bir isim grubu, diğerinde an ile başlayan bir isim grubu olsun.",
+          "on_screen_text": "an old umbrella",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Tekil ismi ilk kez tanıt, ilk sesi dinle, sonra a veya an seç. Seçimini sesli tekrar et.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_04_a",
+      "lesson_id": "CORE-E1-W1-L4",
+      "part": "A",
+      "title_tr": "Yakın mı, Uzak mı? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Elindeki tek bir telefona bak ve this phone de. This, konuşana yakın olan tek bir şeyi gösterir.",
+          "on_screen_text": "this phone",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Uzaktaki tek bir sandalye için that chair deriz. Yakınlık değiştiğinde işaret sözcüğü de değişir.",
+          "on_screen_text": "this/that + tekil / these/those + çoğul",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Birden fazla yakın nesne için these, birden fazla uzak nesne için those kullanılır: these phones, those chairs.",
+          "on_screen_text": "those chairs",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "İki uzak sandalyeyi gösteren ifadeyi seç. Sayı çok ve mesafe uzak olduğu için those chairs gerekir.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-04 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_04_b",
+      "lesson_id": "CORE-E1-W1-L4",
+      "part": "B",
+      "title_tr": "Yakın mı, Uzak mı? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "This phone ifadesini çoğula dönüştür. Phone, phones olur; this ise these biçimine geçer: these phones.",
+          "on_screen_text": "this phone",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "That chair ifadesini çoğula dönüştürürsen those chairs elde edersin. Her iki parçayı birlikte değiştir.",
+          "on_screen_text": "this/that + tekil / these/those + çoğul",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Odanda yakın ve uzak nesneler seç. Her biri için tekil ve çoğul birer ifade kur.",
+          "on_screen_text": "those chairs",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Dört kutuyu hatırla: yakın tekil this, uzak tekil that, yakın çoğul these, uzak çoğul those.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_05_a",
+      "lesson_id": "CORE-E1-W2-L1",
+      "part": "A",
+      "title_tr": "Ben, Sen, O: Am–Is–Are — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Bir durum cümlesinde önce özneyi görürüz. I özel olarak am ile eşleşir: I am ready.",
+          "on_screen_text": "I am ready.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "He, she ve it tekil gruptur; is kullanırız. He is tired, she is happy, it is small.",
+          "on_screen_text": "özne + am/is/are + isim veya sıfat",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "You, we ve they ile are gelir. You are ready, we are happy, they are tired.",
+          "on_screen_text": "They are happy.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Ekrandaki özneye uygun parçayı seç: They boşluğuna are gelir ve They are ready cümlesi oluşur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-05 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_05_b",
+      "lesson_id": "CORE-E1-W2-L1",
+      "part": "B",
+      "title_tr": "Ben, Sen, O: Am–Is–Are — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "I am happy cümlesini olumsuza dönüştür: I am not happy. Not, am kelimesinden sonra gelir.",
+          "on_screen_text": "I am ready.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "She is ready cümlesinde özneyi we yaparsan yardımcı parça da değişir: We are ready.",
+          "on_screen_text": "özne + am/is/are + isim veya sıfat",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Üç cümle kur: kendin için I am, bir kişi için he veya she is, bir grup için they are kullan.",
+          "on_screen_text": "They are happy.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Önce özneyi seç, sonra doğru eşini getir. I–am, he/she/it–is, you/we/they–are.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_06_a",
+      "lesson_id": "CORE-E1-W2-L2",
+      "part": "A",
+      "title_tr": "Her Gün Ne Yaparız? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Günlük rutin anlatırken önce özneyi, sonra eylemi getiririz. I work every day cümlesinde work yaptığım işi anlatır.",
+          "on_screen_text": "I work every day.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "You, we ve they ile fiilin yalın biçimini kullanırız: you read, we study, they walk.",
+          "on_screen_text": "I/you/we/they + yalın fiil + tamamlayıcı",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Zaman ifadesi cümlenin sonunda kolayca yer alabilir: We listen every morning.",
+          "on_screen_text": "We study English.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Parçaları sıraya koy: We, study, English. Doğru cümle We study English olur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-06 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_06_b",
+      "lesson_id": "CORE-E1-W2-L2",
+      "part": "B",
+      "title_tr": "Her Gün Ne Yaparız? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "I read books cümlesinde eylemi write ile değiştir: I write notes. Özne aynı, fiil yalın kalır.",
+          "on_screen_text": "I work every day.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "We study English cümlesini they öznesiyle dönüştür: They study English. Bu özne grubunda fiile s eklenmez.",
+          "on_screen_text": "I/you/we/they + yalın fiil + tamamlayıcı",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Kendi gününden üç eylem seç. I ile başlayan üç kısa cümle kur ve birine every day ekle.",
+          "on_screen_text": "We study English.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Rutin cümlesinin iskeleti basit: özne, eylem, gerekiyorsa nesne veya zaman. Önce kısa ve doğru kur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_07_a",
+      "lesson_id": "CORE-E1-W2-L3",
+      "part": "A",
+      "title_tr": "O Ne Yapar? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "I play deriz; fakat özne he olduğunda fiil küçük bir işaret alır: He plays. Bu işaret üçüncü tekil s ekidir.",
+          "on_screen_text": "He plays football.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Watch gibi sesle biten bazı fiiller es alır: She watches a film. Go kelimesi de goes olur.",
+          "on_screen_text": "he/she/it + fiil-s/-es",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Have sık kullanılan özel bir biçime dönüşür: He has a book. Bu biçimi örnek içinde tekrar ederek öğren.",
+          "on_screen_text": "She watches a film.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Cümleyi tamamla: She boşluk music. Doğru seçenek likes olur; çünkü özne she.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-07 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_07_b",
+      "lesson_id": "CORE-E1-W2-L3",
+      "part": "B",
+      "title_tr": "O Ne Yapar? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "They play football cümlesini he öznesiyle dönüştür: He plays football. Özne değişince fiil de değişir.",
+          "on_screen_text": "He plays football.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "I watch a film cümlesi she ile She watches a film olur. Hem özneyi hem fiilin sonunu kontrol et.",
+          "on_screen_text": "he/she/it + fiil-s/-es",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Tanıdığın bir kişinin üç rutinini anlat. He veya she ile başla ve fiilde gerekli s/es işaretini kullan.",
+          "on_screen_text": "She watches a film.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Kontrol sorusu şu: Özne he, she veya it mi? Evetse olumlu geniş zamanda fiilin sonunu yeniden kontrol et.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_08_a",
+      "lesson_id": "CORE-E1-W2-L4",
+      "part": "A",
+      "title_tr": "Do ve Does ile Soru Kur — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Geniş zamanda soru kurarken do veya does cümlenin önüne gelir. You ile Do you work here? deriz.",
+          "on_screen_text": "Where do you live?",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "He, she ve it ile does kullanırız: Does she work here? Does geldiğinde ana fiil yalın biçime döner.",
+          "on_screen_text": "soru sözcüğü + do/does + özne + yalın fiil",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Bilgi sorusunda soru sözcüğü en başa gelir: Where do you live? What does he read?",
+          "on_screen_text": "Does she work here?",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Parçaları doğru sıraya koy: where, do, they, live. Sonuç Where do they live? olur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-08 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_08_b",
+      "lesson_id": "CORE-E1-W2-L4",
+      "part": "B",
+      "title_tr": "Do ve Does ile Soru Kur — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "You work here cümlesini soruya dönüştür: Do you work here? Özne ve fiil korunur, do başa gelir.",
+          "on_screen_text": "Where do you live?",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "She likes music cümlesi soru olduğunda Does she like music? olur. Likes içindeki s, does üzerine taşınmış gibi düşün.",
+          "on_screen_text": "soru sözcüğü + do/does + özne + yalın fiil",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Bir arkadaşına üç soru hazırla: biri what, biri where, biri do veya does ile başlayan evet-hayır sorusu olsun.",
+          "on_screen_text": "Does she work here?",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Soru kontrolü: doğru soru sözcüğü, doğru do/does, özne ve yalın fiil. Bu dört parçayı sırayla gör.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_09_a",
+      "lesson_id": "CORE-E1-W3-L1",
+      "part": "A",
+      "title_tr": "Nerede Ne Var? — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Bir yerde tek bir şey olduğunu söylerken There is ile başlarız: There is a table in the room.",
+          "on_screen_text": "There is a table in the room.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Birden fazla şey için There are kullanırız: There are two chairs in the kitchen.",
+          "on_screen_text": "there is/are + nesne + konum",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Konumu in, on, under ve next to ile netleştirebiliriz. The phone is on the table örneğinde on yüzey temasını gösterir.",
+          "on_screen_text": "There are two chairs in the kitchen.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "İki sandalye için doğru başlangıcı seç. Sayı çoğul olduğu için There are gerekir.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-09 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_09_b",
+      "lesson_id": "CORE-E1-W3-L1",
+      "part": "B",
+      "title_tr": "Nerede Ne Var? — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "There is a box on the table cümlesinde konumu under yap: There is a box under the table.",
+          "on_screen_text": "There is a table in the room.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Tek bir chair yerine two chairs koyunca başlangıcı da değiştir: There are two chairs in the room.",
+          "on_screen_text": "there is/are + nesne + konum",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Bir oda seç ve içinde gördüğün üç şeyi anlat. En az bir there is ve bir there are cümlesi kur.",
+          "on_screen_text": "There are two chairs in the kitchen.",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Önce sayıyı kontrol et, sonra is veya are seç, en sona konumu ekle. Böylece dinleyen zihninde odayı görebilir.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_10_a",
+      "lesson_id": "CORE-E1-W3-L2",
+      "part": "A",
+      "title_tr": "Yapabilirim — Gör ve Çöz",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Gör",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "Bir yeteneği can ile anlatırız: I can swim. Can kelimesinden sonra fiil her özneyle yalın kalır.",
+          "on_screen_text": "I can swim.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Kavramı Tanı",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "Olumsuz biçimde cannot veya kısa olarak can't kullanılır: I cannot drive today.",
+          "on_screen_text": "özne + can/cannot + yalın fiil",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Çöz",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Yardım istemek için Can you help me? diyebiliriz. Soru olduğunda can cümlenin başına gelir.",
+          "on_screen_text": "Can you help me?",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Etkileşim",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Parçaları sırala: she, can, drive. Doğru cümle She can drive olur.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": "INT-10 için duraklatma ve yanıt kapısı"
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    },
+    {
+      "video_id": "c01_video_10_b",
+      "lesson_id": "CORE-E1-W3-L2",
+      "part": "B",
+      "title_tr": "Yapabilirim — Dönüştür ve Kur",
+      "target_duration_seconds": 90,
+      "production_mode": "NEW_MICRO_SCRIPT",
+      "carry_forward_reference": null,
+      "narration_language": "tr-TR",
+      "example_language": "en",
+      "narration_segments": [
+        {
+          "segment": 1,
+          "phase": "Dönüştür",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "narration_tr": "I can swim cümlesinde özneyi they yap: They can swim. Can değişmez, fiil de yalın kalır.",
+          "on_screen_text": "I can swim.",
+          "interaction_note": null
+        },
+        {
+          "segment": 2,
+          "phase": "Karşılaştır",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "narration_tr": "You can open the door cümlesini soruya dönüştür: Can you open the door? Sadece can başa geçer.",
+          "on_screen_text": "özne + can/cannot + yalın fiil",
+          "interaction_note": null
+        },
+        {
+          "segment": 3,
+          "phase": "Kur",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "narration_tr": "Kendin için iki yetenek cümlesi ve bir yardım isteği kur. Gerçek hayatında kullanabileceğin fiilleri seç.",
+          "on_screen_text": "Can you help me?",
+          "interaction_note": null
+        },
+        {
+          "segment": 4,
+          "phase": "Kapanış",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "narration_tr": "Son kontrol: can veya cannot, ardından yalın fiil. He, she veya it olsa bile fiile s ekleme.",
+          "on_screen_text": "Gör → Çöz → Dönüştür → Kur",
+          "interaction_note": null
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_AND_PRODUCTION_REVIEW_REQUIRED"
+    }
+  ]
+}

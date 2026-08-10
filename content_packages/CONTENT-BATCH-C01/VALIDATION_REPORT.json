@@ -1,0 +1,196 @@
+{
+  "report_id": "CONTENT-BATCH-C01_VALIDATION",
+  "package_id": "CONTENT-BATCH-C01",
+  "package_version": "1.0.0",
+  "generated_on": "2026-08-10",
+  "overall_status": "PASS_WITH_RELEASE_GATES",
+  "counts": {
+    "lessons": 10,
+    "vocabulary": 100,
+    "sentences": 100,
+    "questions": 50,
+    "dialogues": 10,
+    "daily_tasks": 10,
+    "videos": 20,
+    "subtitle_tracks": 20,
+    "subtitle_cues": 72,
+    "audio_recording_queue": 230,
+    "actual_audio_assets": 0
+  },
+  "checks": [
+    {
+      "check": "lesson_count",
+      "status": "PASS",
+      "details": "expected=10 actual=10"
+    },
+    {
+      "check": "vocabulary_count",
+      "status": "PASS",
+      "details": "expected=100 actual=100"
+    },
+    {
+      "check": "sentence_count",
+      "status": "PASS",
+      "details": "expected=100 actual=100"
+    },
+    {
+      "check": "quiz_count",
+      "status": "PASS",
+      "details": "expected=50 actual=50"
+    },
+    {
+      "check": "dialogue_count",
+      "status": "PASS",
+      "details": "expected=10 actual=10"
+    },
+    {
+      "check": "daily_task_count",
+      "status": "PASS",
+      "details": "expected=10 actual=10"
+    },
+    {
+      "check": "video_count",
+      "status": "PASS",
+      "details": "expected=20 actual=20"
+    },
+    {
+      "check": "subtitle_track_count",
+      "status": "PASS",
+      "details": "expected=20 actual=20"
+    },
+    {
+      "check": "subtitle_cue_count",
+      "status": "PASS",
+      "details": "expected=72 new cues plus 2 locked L1 reference tracks"
+    },
+    {
+      "check": "audio_queue_count",
+      "status": "PASS",
+      "details": "expected=230 actual=230"
+    },
+    {
+      "check": "actual_audio_asset_count",
+      "status": "PASS",
+      "details": "no invented audio assets"
+    },
+    {
+      "check": "lesson_ids_unique",
+      "status": "PASS",
+      "details": "lesson ids must be unique"
+    },
+    {
+      "check": "vocabulary_ids_unique",
+      "status": "PASS",
+      "details": "vocabulary ids must be unique"
+    },
+    {
+      "check": "vocabulary_terms_unique",
+      "status": "PASS",
+      "details": "English terms must be unique"
+    },
+    {
+      "check": "sentence_ids_unique",
+      "status": "PASS",
+      "details": "sentence ids must be unique"
+    },
+    {
+      "check": "quiz_ids_unique",
+      "status": "PASS",
+      "details": "question ids must be unique"
+    },
+    {
+      "check": "dialogue_ids_unique",
+      "status": "PASS",
+      "details": "dialogue ids must be unique"
+    },
+    {
+      "check": "daily_task_ids_unique",
+      "status": "PASS",
+      "details": "daily task ids must be unique"
+    },
+    {
+      "check": "video_ids_unique",
+      "status": "PASS",
+      "details": "video ids must be unique"
+    },
+    {
+      "check": "audio_queue_ids_unique",
+      "status": "PASS",
+      "details": "planned audio ids must be unique"
+    },
+    {
+      "check": "vocabulary_lesson_references",
+      "status": "PASS",
+      "details": "all vocabulary lesson references resolve"
+    },
+    {
+      "check": "sentence_lesson_references",
+      "status": "PASS",
+      "details": "all sentence lesson references resolve"
+    },
+    {
+      "check": "sentence_vocabulary_references",
+      "status": "PASS",
+      "details": "all sentence vocabulary references resolve"
+    },
+    {
+      "check": "quiz_lesson_references",
+      "status": "PASS",
+      "details": "all quiz lesson references resolve"
+    },
+    {
+      "check": "dialogue_lesson_references",
+      "status": "PASS",
+      "details": "all dialogue lesson references resolve"
+    },
+    {
+      "check": "daily_task_lesson_references",
+      "status": "PASS",
+      "details": "all daily task lesson references resolve"
+    },
+    {
+      "check": "video_lesson_references",
+      "status": "PASS",
+      "details": "all video lesson references resolve"
+    },
+    {
+      "check": "quiz_answer_integrity",
+      "status": "PASS",
+      "details": "non-order answers must occur in options"
+    },
+    {
+      "check": "lesson_distribution",
+      "status": "PASS",
+      "details": "each lesson has 10 vocabulary, 10 sentences, 5 questions, 1 dialogue, 1 daily task and 2 videos"
+    },
+    {
+      "check": "local_persistence_policy",
+      "status": "PASS",
+      "details": "local persistent storage is disabled"
+    },
+    {
+      "check": "id_3_gate_preserved",
+      "status": "PASS",
+      "details": "ID 3 remains open until cloud evidence"
+    },
+    {
+      "check": "id_5_gate_preserved",
+      "status": "PASS",
+      "details": "ID 5 remains open until real audio and cloud evidence"
+    },
+    {
+      "check": "human_review_gate",
+      "status": "PASS",
+      "details": "human editor review required"
+    }
+  ],
+  "release_gates": [
+    "İnsan dil editörü ve pedagojik inceleme",
+    "Gemini toplu şema doğrulaması",
+    "Mevcut bulut veritabanına import",
+    "Bulut kayıt sayısı ve geri okuma doğrulaması",
+    "Gerçek ses dosyalarının üretimi ve teknik kalite kontrolü",
+    "Debug APK üzerinde içerik görüntüleme ve etkileşim testi",
+    "10 kişilik BETA-TUR-01 kabulü"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-english.local/schemas/CONTENT-BATCH-C01.schema.json",
+  "title": "AI English CONTENT-BATCH-C01",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "package",
+    "lessons",
+    "vocabulary",
+    "sentences",
+    "quizzes",
+    "dialogues",
+    "daily_tasks",
+    "videos",
+    "subtitles",
+    "audio_manifest"
+  ],
+  "properties": {
+    "package": {
+      "type": "object",
+      "required": [
+        "package_id",
+        "version",
+        "teaching_model",
+        "persistence_policy"
+      ],
+      "properties": {
+        "package_id": {
+          "const": "CONTENT-BATCH-C01"
+        },
+        "version": {
+          "const": "1.0.0"
+        },
+        "teaching_model": {
+          "const": [
+            "Gör",
+            "Çöz",
+            "Dönüştür",
+            "Kur"
+          ]
+        },
+        "persistence_policy": {
+          "type": "object",
+          "required": [
+            "local_database",
+            "local_persistent_state"
+          ],
+          "properties": {
+            "local_database": {
+              "const": false
+            },
+            "local_persistent_state": {
+              "const": false
+            }
+          }
+        }
+      }
+    },
+    "lessons": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "$ref": "#/$defs/lesson"
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "minItems": 100,
+      "maxItems": 100,
+      "items": {
+        "$ref": "#/$defs/vocabulary"
+      }
+    },
+    "sentences": {
+      "type": "array",
+      "minItems": 100,
+      "maxItems": 100,
+      "items": {
+        "$ref": "#/$defs/sentence"
+      }
+    },
+    "quizzes": {
+      "type": "array",
+      "minItems": 50,
+      "maxItems": 50,
+      "items": {
+        "$ref": "#/$defs/question"
+      }
+    },
+    "dialogues": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "$ref": "#/$defs/dialogue"
+      }
+    },
+    "daily_tasks": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "$ref": "#/$defs/dailyTask"
+      }
+    },
+    "videos": {
+      "type": "array",
+      "minItems": 20,
+      "maxItems": 20,
+      "items": {
+        "$ref": "#/$defs/video"
+      }
+    },
+    "subtitles": {
+      "type": "array",
+      "minItems": 20,
+      "maxItems": 20,
+      "items": {
+        "$ref": "#/$defs/subtitleTrack"
+      }
+    },
+    "audio_manifest": {
+      "type": "object",
+      "required": [
+        "assets",
+        "recording_queue",
+        "integration_policy"
+      ]
+    }
+  },
+  "$defs": {
+    "lesson": {
+      "type": "object",
+      "required": [
+        "lesson_id",
+        "content_id",
+        "title_tr",
+        "objective_tr",
+        "target_pattern",
+        "interaction_gate"
+      ]
+    },
+    "vocabulary": {
+      "type": "object",
+      "required": [
+        "id",
+        "english_term",
+        "turkish_definition",
+        "module_category",
+        "difficulty_level",
+        "lesson_id"
+      ]
+    },
+    "sentence": {
+      "type": "object",
+      "required": [
+        "sentence_id",
+        "lesson_id",
+        "english_text",
+        "turkish_translation",
+        "grammar_focus"
+      ]
+    },
+    "question": {
+      "type": "object",
+      "required": [
+        "question_id",
+        "lesson_id",
+        "type",
+        "prompt_tr",
+        "options",
+        "correct_answer",
+        "explanation_tr"
+      ]
+    },
+    "dialogue": {
+      "type": "object",
+      "required": [
+        "dialogue_id",
+        "lesson_id",
+        "title_tr",
+        "scenario_tr",
+        "turns"
+      ]
+    },
+    "dailyTask": {
+      "type": "object",
+      "required": [
+        "task_id",
+        "lesson_id",
+        "title_tr",
+        "instruction_tr",
+        "success_criteria_tr"
+      ]
+    },
+    "video": {
+      "type": "object",
+      "required": [
+        "video_id",
+        "lesson_id",
+        "part",
+        "title_tr",
+        "narration_segments"
+      ]
+    },
+    "subtitleTrack": {
+      "type": "object",
+      "required": [
+        "track_id",
+        "video_id",
+        "language",
+        "track_status",
+        "cues"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "@@locale": "en",
+  "int01Title": "The Note of the Noun",
+  "int01Prompt": "Choose the central noun of the group.",
+  "int01Submit": "Check",
+  "int01TryAgain": "Try again",
+  "int01Continue": "Continue",
+  "int01AttemptsRemaining": "Attempts remaining: {count}",
+  "@int01AttemptsRemaining": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "int01Hint1": "Hint: Think of the group name, not the number or color.",
+  "int01Hint2": "Hint: Choose the word that answers ‘Which things?’",
+  "int01Correct": "Correct. ‘books’ is the central noun of the group.",
+  "int01Solution": "The correct answer is ‘books’. Let’s continue with the example.",
+  "tokenStateDefault": "Ready",
+  "tokenStateSelected": "Selected",
+  "tokenStateCorrect": "Correct",
+  "tokenStateIncorrect": "Incorrect",
+  "tokenStateDisabled": "Disabled"
+}
+

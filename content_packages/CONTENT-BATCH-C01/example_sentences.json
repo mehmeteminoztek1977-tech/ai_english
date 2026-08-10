@@ -1,0 +1,1296 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "sentence_id": "c01_sentence_001",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "I see two blue books.",
+      "turkish_translation": "İki mavi kitap görüyorum.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_009",
+        "c01_vocab_005",
+        "c01_vocab_001"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_002",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "She has three red bags.",
+      "turkish_translation": "Onun üç kırmızı çantası var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_010",
+        "c01_vocab_006",
+        "c01_vocab_002"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_003",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "The small key is on the table.",
+      "turkish_translation": "Küçük anahtar masanın üzerinde.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_007",
+        "c01_vocab_003",
+        "c01_vocab_004"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_004",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "This old book is useful.",
+      "turkish_translation": "Bu eski kitap kullanışlı.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_008",
+        "c01_vocab_001"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_005",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "Two small bags are here.",
+      "turkish_translation": "İki küçük çanta burada.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_009",
+        "c01_vocab_007",
+        "c01_vocab_002"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_006",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "The blue key is mine.",
+      "turkish_translation": "Mavi anahtar benim.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_005",
+        "c01_vocab_003"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_007",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "Three books are on the old table.",
+      "turkish_translation": "Üç kitap eski masanın üzerinde.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_010",
+        "c01_vocab_001",
+        "c01_vocab_008",
+        "c01_vocab_004"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_008",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "I need the red bag.",
+      "turkish_translation": "Kırmızı çantaya ihtiyacım var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_006",
+        "c01_vocab_002"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_009",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "That table is small.",
+      "turkish_translation": "Şu masa küçük.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_004",
+        "c01_vocab_007"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_010",
+      "lesson_id": "CORE-E1-W1-L1",
+      "english_text": "These blue books are new.",
+      "turkish_translation": "Bu mavi kitaplar yeni.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_005",
+        "c01_vocab_001"
+      ],
+      "grammar_focus": "miktar + sıfat + merkez isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_011",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "This is one apple.",
+      "turkish_translation": "Bu bir elma.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_017",
+        "c01_vocab_011"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_012",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "These are four oranges.",
+      "turkish_translation": "Bunlar dört portakal.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_018",
+        "c01_vocab_012"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_013",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "The box is big.",
+      "turkish_translation": "Kutu büyük.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_013",
+        "c01_vocab_019"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_014",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "The boxes are new.",
+      "turkish_translation": "Kutular yeni.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_013",
+        "c01_vocab_020"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_015",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "One child has a wristwatch.",
+      "turkish_translation": "Bir çocuğun kol saati var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_017",
+        "c01_vocab_015",
+        "c01_vocab_014"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_016",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "Four children play here.",
+      "turkish_translation": "Dört çocuk burada oynuyor.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_018",
+        "c01_vocab_015"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_017",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "This person is a teacher.",
+      "turkish_translation": "Bu kişi bir öğretmen.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_016"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_018",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "These people are ready.",
+      "turkish_translation": "Bu insanlar hazır.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_016"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_019",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "I have a new wristwatch.",
+      "turkish_translation": "Yeni bir kol saatim var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_020",
+        "c01_vocab_014"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_020",
+      "lesson_id": "CORE-E1-W1-L2",
+      "english_text": "The big orange is in the box.",
+      "turkish_translation": "Büyük portakal kutunun içinde.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_019",
+        "c01_vocab_012",
+        "c01_vocab_013"
+      ],
+      "grammar_focus": "one + tekil isim / sayı + çoğul isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_021",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "This is a pen.",
+      "turkish_translation": "Bu bir kalem.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_029",
+        "c01_vocab_021"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_022",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "That is an umbrella.",
+      "turkish_translation": "Şu bir şemsiye.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_030",
+        "c01_vocab_022"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_023",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "I have an idea.",
+      "turkish_translation": "Bir fikrim var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_030",
+        "c01_vocab_023"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_024",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "She eats an egg.",
+      "turkish_translation": "O bir yumurta yer.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_030",
+        "c01_vocab_024"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_025",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "He is a student.",
+      "turkish_translation": "O bir öğrenci.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_029",
+        "c01_vocab_025"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_026",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "Ece is a teacher.",
+      "turkish_translation": "Ece bir öğretmen.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_029",
+        "c01_vocab_026"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_027",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "My father is a doctor.",
+      "turkish_translation": "Babam bir doktor.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_029",
+        "c01_vocab_027"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_028",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "Ada is an artist.",
+      "turkish_translation": "Ada bir sanatçı.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_030",
+        "c01_vocab_028"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_029",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "I need a pen.",
+      "turkish_translation": "Bir kaleme ihtiyacım var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_029",
+        "c01_vocab_021"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_030",
+      "lesson_id": "CORE-E1-W1-L3",
+      "english_text": "An artist has an idea.",
+      "turkish_translation": "Bir sanatçının bir fikri var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_030",
+        "c01_vocab_028",
+        "c01_vocab_023"
+      ],
+      "grammar_focus": "a/an + tekil isim",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_031",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "This phone is new.",
+      "turkish_translation": "Bu telefon yeni.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_031",
+        "c01_vocab_037"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_032",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "That chair is old.",
+      "turkish_translation": "Şu sandalye eski.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_032",
+        "c01_vocab_038"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_033",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "These phones are small.",
+      "turkish_translation": "Bu telefonlar küçük.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_033",
+        "c01_vocab_037"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_034",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "Those chairs are blue.",
+      "turkish_translation": "Şu sandalyeler mavi.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_034",
+        "c01_vocab_038"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_035",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "This door is open.",
+      "turkish_translation": "Bu kapı açık.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_031",
+        "c01_vocab_039"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_036",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "That window is closed.",
+      "turkish_translation": "Şu pencere kapalı.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_032",
+        "c01_vocab_040"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_037",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "These keys are near me.",
+      "turkish_translation": "Bu anahtarlar bana yakın.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_033",
+        "c01_vocab_035"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_038",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "Those bags are far away.",
+      "turkish_translation": "Şu çantalar uzakta.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_034",
+        "c01_vocab_036"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_039",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "Who is at the door?",
+      "turkish_translation": "Kapıda kim var?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_039"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_040",
+      "lesson_id": "CORE-E1-W1-L4",
+      "english_text": "The chair is near the window.",
+      "turkish_translation": "Sandalye pencerenin yanında.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_038",
+        "c01_vocab_035",
+        "c01_vocab_040"
+      ],
+      "grammar_focus": "this/that + tekil / these/those + çoğul",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_041",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "I am happy.",
+      "turkish_translation": "Ben mutluyum.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_041",
+        "c01_vocab_048"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_042",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "You are ready.",
+      "turkish_translation": "Sen hazırsın.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_042",
+        "c01_vocab_050"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_043",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "He is tired.",
+      "turkish_translation": "O yorgun.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_043",
+        "c01_vocab_049"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_044",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "She is happy.",
+      "turkish_translation": "O mutlu.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_044",
+        "c01_vocab_048"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_045",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "It is small.",
+      "turkish_translation": "O küçük.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_045"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_046",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "We are ready.",
+      "turkish_translation": "Biz hazırız.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_046",
+        "c01_vocab_050"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_047",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "They are tired.",
+      "turkish_translation": "Onlar yorgun.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_047",
+        "c01_vocab_049"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_048",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "I am not tired.",
+      "turkish_translation": "Ben yorgun değilim.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_041",
+        "c01_vocab_049"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_049",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "Are you happy?",
+      "turkish_translation": "Mutlu musun?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_042",
+        "c01_vocab_048"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_050",
+      "lesson_id": "CORE-E1-W2-L1",
+      "english_text": "She is not ready.",
+      "turkish_translation": "O hazır değil.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_044",
+        "c01_vocab_050"
+      ],
+      "grammar_focus": "özne + am/is/are + isim veya sıfat",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_051",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "I work every day.",
+      "turkish_translation": "Her gün çalışırım.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_051",
+        "c01_vocab_060"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_052",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "You live in Ankara.",
+      "turkish_translation": "Ankara'da yaşıyorsun.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_052"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_053",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "We study English.",
+      "turkish_translation": "İngilizce çalışıyoruz.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_053"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_054",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "They read books.",
+      "turkish_translation": "Onlar kitap okur.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_054"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_055",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "I write short notes.",
+      "turkish_translation": "Kısa notlar yazarım.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_055"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_056",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "You speak slowly.",
+      "turkish_translation": "Yavaş konuşursun.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_056"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_057",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "We listen every morning.",
+      "turkish_translation": "Her sabah dinleriz.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_057",
+        "c01_vocab_060"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_058",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "They walk to work.",
+      "turkish_translation": "İşe yürürler.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_058",
+        "c01_vocab_051"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_059",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "I cook in the evening.",
+      "turkish_translation": "Akşam yemek pişiririm.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_059"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_060",
+      "lesson_id": "CORE-E1-W2-L2",
+      "english_text": "We study every day.",
+      "turkish_translation": "Her gün ders çalışırız.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_053",
+        "c01_vocab_060"
+      ],
+      "grammar_focus": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_061",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "He plays football.",
+      "turkish_translation": "O futbol oynar.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_061"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_062",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "She watches a film.",
+      "turkish_translation": "O film izler.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_062"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_063",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "It goes fast.",
+      "turkish_translation": "O hızlı gider.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_063"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_064",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "He drinks water.",
+      "turkish_translation": "O su içer.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_064"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_065",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "She has a new book.",
+      "turkish_translation": "Onun yeni bir kitabı var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_065"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_066",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "Ece likes music.",
+      "turkish_translation": "Ece müziği sever.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_066"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_067",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "Ali needs help.",
+      "turkish_translation": "Ali'nin yardıma ihtiyacı var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_067"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_068",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "He walks in the morning.",
+      "turkish_translation": "O sabah yürür.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_068"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_069",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "She usually cooks in the evening.",
+      "turkish_translation": "O genellikle akşam yemek pişirir.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_070",
+        "c01_vocab_069"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_070",
+      "lesson_id": "CORE-E1-W2-L3",
+      "english_text": "My father reads every night.",
+      "turkish_translation": "Babam her gece okur.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_054"
+      ],
+      "grammar_focus": "he/she/it + fiil-s/-es",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_071",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "What do you read?",
+      "turkish_translation": "Ne okursun?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_071",
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_072",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Where do they live?",
+      "turkish_translation": "Onlar nerede yaşar?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_072",
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_073",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "When do we start?",
+      "turkish_translation": "Ne zaman başlarız?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_073",
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_074",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Why do you study English?",
+      "turkish_translation": "Neden İngilizce çalışırsın?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_074",
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_075",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Who does she call?",
+      "turkish_translation": "O kimi arar?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_075",
+        "c01_vocab_078"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_076",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "How do you cook this?",
+      "turkish_translation": "Bunu nasıl pişirirsin?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_076",
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_077",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Do you have a question?",
+      "turkish_translation": "Bir sorunuz var mı?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_077",
+        "c01_vocab_079"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_078",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Does he know the answer?",
+      "turkish_translation": "O cevabı biliyor mu?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_078",
+        "c01_vocab_080"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_079",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Do they work here?",
+      "turkish_translation": "Onlar burada çalışıyor mu?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_077"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_080",
+      "lesson_id": "CORE-E1-W2-L4",
+      "english_text": "Does Ece speak English?",
+      "turkish_translation": "Ece İngilizce konuşuyor mu?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_078"
+      ],
+      "grammar_focus": "soru sözcüğü + do/does + özne + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_081",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "There is a table in the room.",
+      "turkish_translation": "Odada bir masa var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_086",
+        "c01_vocab_081",
+        "c01_vocab_087"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_082",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "There are two chairs in the kitchen.",
+      "turkish_translation": "Mutfakta iki sandalye var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_086",
+        "c01_vocab_082",
+        "c01_vocab_087"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_083",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "The book is in the bedroom.",
+      "turkish_translation": "Kitap yatak odasında.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_083",
+        "c01_vocab_087"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_084",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "The key is in the bathroom.",
+      "turkish_translation": "Anahtar banyoda.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_084",
+        "c01_vocab_087"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_085",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "There is a small room in the house.",
+      "turkish_translation": "Evin içinde küçük bir oda var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_086",
+        "c01_vocab_081",
+        "c01_vocab_087",
+        "c01_vocab_085"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_086",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "The phone is on the table.",
+      "turkish_translation": "Telefon masanın üzerinde.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_088"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_087",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "The bag is under the chair.",
+      "turkish_translation": "Çanta sandalyenin altında.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_089"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_088",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "The kitchen is next to the bedroom.",
+      "turkish_translation": "Mutfak yatak odasının yanında.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_082",
+        "c01_vocab_090",
+        "c01_vocab_083"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_089",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "There are four windows in the house.",
+      "turkish_translation": "Evde dört pencere var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_086",
+        "c01_vocab_085"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_090",
+      "lesson_id": "CORE-E1-W3-L1",
+      "english_text": "There is a box under the table.",
+      "turkish_translation": "Masanın altında bir kutu var.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_086",
+        "c01_vocab_089"
+      ],
+      "grammar_focus": "there is/are + nesne + konum",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_091",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "I can swim.",
+      "turkish_translation": "Yüzebilirim.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_093"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_092",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "She can drive.",
+      "turkish_translation": "O araç kullanabilir.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_094"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_093",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "Can you help me?",
+      "turkish_translation": "Bana yardım edebilir misin?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_095"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_094",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "Please open the door.",
+      "turkish_translation": "Lütfen kapıyı aç.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_096"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_095",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "Please close the window.",
+      "turkish_translation": "Lütfen pencereyi kapat.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_097"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_096",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "He can carry the box.",
+      "turkish_translation": "O kutuyu taşıyabilir.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_098"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_097",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "I can understand this question.",
+      "turkish_translation": "Bu soruyu anlayabilirim.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_099"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_098",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "Can you repeat the answer?",
+      "turkish_translation": "Cevabı tekrar edebilir misin?",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_100"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_099",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "We cannot drive today.",
+      "turkish_translation": "Bugün araç kullanamayız.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_092",
+        "c01_vocab_094"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "sentence_id": "c01_sentence_100",
+      "lesson_id": "CORE-E1-W3-L2",
+      "english_text": "They can help the teacher.",
+      "turkish_translation": "Onlar öğretmene yardım edebilir.",
+      "focus_vocabulary_ids": [
+        "c01_vocab_091",
+        "c01_vocab_095"
+      ],
+      "grammar_focus": "özne + can/cannot + yalın fiil",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    }
+  ]
+}

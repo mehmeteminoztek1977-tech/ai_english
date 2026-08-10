@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "sourceLocale": "tr",
+  "targetLocales": ["en"],
+  "sourceArb": "lib/l10n/app_tr.arb",
+  "generatedArbs": ["lib/l10n/app_en.arb"],
+  "runtimeAiCallsAllowed": false,
+  "secretsInApplicationBundleAllowed": false,
+  "humanReviewRequired": true
+}
+

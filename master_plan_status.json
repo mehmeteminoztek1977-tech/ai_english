@@ -1,0 +1,62 @@
+[
+    {
+        "Id":  1,
+        "Category":  "Aþama 1",
+        "Task":  "Taner Çaðlý eðitimine ait tüm e-kitap kaynaklarýnýn taranmasý ve JSON/Markdown formatýna dönüþtürülmesi",
+        "Status":  "Completed"
+    },
+    {
+        "Id":  2,
+        "Category":  "Aþama 1",
+        "Task":  "Ders notlarýnýn modüler ders baþlýklarýna göre kategorize edilmesi",
+        "Status":  "Completed"
+    },
+    {
+        "Id":  3,
+        "Category":  "Aþama 1",
+        "Task":  "Kelime ezber modülü için veritabaný kelime havuzunun (Vocabulary Pool) oluþturulmasý",
+        "Status":  "Completed"
+    },
+    {
+        "Id":  4,
+        "Category":  "Aþama 1",
+        "Task":  "Haftalýk uygulama kaynaklarýnýn modüllere atanmasý",
+        "Status":  "Completed"
+    },
+    {
+        "Id":  5,
+        "Category":  "Aþama 1",
+        "Task":  "Sesli telaffuz dosyalarýnýn (Audio assets) seslendirme ve entegrasyon listesinin çýkarýlmasý",
+        "Status":  "In Progress"
+    },
+    {
+        "Id":  6,
+        "Category":  "Aþama 1",
+        "Task":  "Ýngilizce-Türkçe çeviri metinlerinin Build-Time mantýðýyla UI katmanýna baðlanmasý",
+        "Status":  "Completed"
+    },
+    {
+        "Id":  7,
+        "Category":  "Aþama 1",
+        "Task":  "Eðitim içeriklerindeki örnek cümlelerin senaryo tabanlý olarak filtrelenmesi",
+        "Status":  "Pending"
+    },
+    {
+        "Id":  8,
+        "Category":  "Aþama 1",
+        "Task":  "Kelime kartlarý (Token Word Card) için interaktif veri modellerinin kurulmasý",
+        "Status":  "Pending"
+    },
+    {
+        "Id":  9,
+        "Category":  "Aþama 1",
+        "Task":  "Günlük görev (Daily task) içeriklerinin müfredata göre planlanmasý",
+        "Status":  "Pending"
+    },
+    {
+        "Id":  10,
+        "Category":  "Aþama 1",
+        "Task":  "Ýçerik doðrulama ve veri bütünlüðü kontrolünün tamamlanmasý",
+        "Status":  "Pending"
+    }
+]

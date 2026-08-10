@@ -1,0 +1,890 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "question_id": "c01_question_001",
+      "lesson_id": "CORE-E1-W1-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "“two blue books” grubunun merkez ismi hangisidir?",
+      "stimulus": "two blue books",
+      "options": [
+        "two",
+        "blue",
+        "books"
+      ],
+      "correct_answer": "books",
+      "explanation_tr": "Grubun ne olduğunu books söyler.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_002",
+      "lesson_id": "CORE-E1-W1-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru kelime grubu hangisidir?",
+      "stimulus": null,
+      "options": [
+        "red three bags",
+        "three red bags",
+        "bags red three"
+      ],
+      "correct_answer": "three red bags",
+      "explanation_tr": "Temel sırada miktar, özellik ve merkez isim yer alır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_003",
+      "lesson_id": "CORE-E1-W1-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "“the small key” grubunda nesnenin adı hangisidir?",
+      "stimulus": "the small key",
+      "options": [
+        "the",
+        "small",
+        "key"
+      ],
+      "correct_answer": "key",
+      "explanation_tr": "Key merkez isimdir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_004",
+      "lesson_id": "CORE-E1-W1-L1",
+      "type": "order_tokens",
+      "prompt_tr": "Kelimeleri anlamlı bir gruba sırala.",
+      "stimulus": null,
+      "options": [
+        "books",
+        "blue",
+        "two"
+      ],
+      "correct_answer": [
+        "two",
+        "blue",
+        "books"
+      ],
+      "explanation_tr": "Miktar + sıfat + merkez isim.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_005",
+      "lesson_id": "CORE-E1-W1-L1",
+      "type": "true_false",
+      "prompt_tr": "“three red bags” grubunda bags, grubun ne olduğunu söyler.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "Bags merkez isimdir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_006",
+      "lesson_id": "CORE-E1-W1-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Four ile doğru isim biçimi hangisidir?",
+      "stimulus": "four ___",
+      "options": [
+        "box",
+        "boxes",
+        "boxs"
+      ],
+      "correct_answer": "boxes",
+      "explanation_tr": "Box çoğulda boxes olur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_007",
+      "lesson_id": "CORE-E1-W1-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "One ile doğru ifade hangisidir?",
+      "stimulus": null,
+      "options": [
+        "one apples",
+        "one apple",
+        "one boxes"
+      ],
+      "correct_answer": "one apple",
+      "explanation_tr": "One ile tekil isim kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_008",
+      "lesson_id": "CORE-E1-W1-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Child kelimesinin yaygın çoğulu hangisidir?",
+      "stimulus": null,
+      "options": [
+        "childs",
+        "children",
+        "childes"
+      ],
+      "correct_answer": "children",
+      "explanation_tr": "Child düzensiz çoğuldur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_009",
+      "lesson_id": "CORE-E1-W1-L2",
+      "type": "order_tokens",
+      "prompt_tr": "Kelimeleri doğru sıraya koy.",
+      "stimulus": null,
+      "options": [
+        "oranges",
+        "four"
+      ],
+      "correct_answer": [
+        "four",
+        "oranges"
+      ],
+      "explanation_tr": "Sayı isimden önce gelir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_010",
+      "lesson_id": "CORE-E1-W1-L2",
+      "type": "true_false",
+      "prompt_tr": "Person kelimesinin yaygın çoğulu people biçimidir.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "People yaygın çoğul biçimdir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_011",
+      "lesson_id": "CORE-E1-W1-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru seçenek hangisidir?",
+      "stimulus": "___ umbrella",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correct_answer": "an",
+      "explanation_tr": "Umbrella ünlü sesle başlar.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_012",
+      "lesson_id": "CORE-E1-W1-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru seçenek hangisidir?",
+      "stimulus": "___ teacher",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correct_answer": "a",
+      "explanation_tr": "Teacher ünsüz sesle başlar.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_013",
+      "lesson_id": "CORE-E1-W1-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru grup hangisidir?",
+      "stimulus": null,
+      "options": [
+        "an artist",
+        "a artist",
+        "artist an"
+      ],
+      "correct_answer": "an artist",
+      "explanation_tr": "Artist ünlü sesle başlar.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_014",
+      "lesson_id": "CORE-E1-W1-L3",
+      "type": "order_tokens",
+      "prompt_tr": "Kelimeleri doğru sıraya koy.",
+      "stimulus": null,
+      "options": [
+        "pen",
+        "red",
+        "a"
+      ],
+      "correct_answer": [
+        "a",
+        "red",
+        "pen"
+      ],
+      "explanation_tr": "Artikel isim grubunun başında yer alır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_015",
+      "lesson_id": "CORE-E1-W1-L3",
+      "type": "true_false",
+      "prompt_tr": "A/an seçimi başlangıç sesine göre yapılır.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "Duyulan ilk ses seçimde belirleyicidir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_016",
+      "lesson_id": "CORE-E1-W1-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "Yakındaki tek telefon için hangisi doğrudur?",
+      "stimulus": null,
+      "options": [
+        "this phone",
+        "these phone",
+        "those phone"
+      ],
+      "correct_answer": "this phone",
+      "explanation_tr": "This yakın ve tekil için kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_017",
+      "lesson_id": "CORE-E1-W1-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "Uzaktaki birden fazla sandalye için hangisi doğrudur?",
+      "stimulus": null,
+      "options": [
+        "that chairs",
+        "those chairs",
+        "these chair"
+      ],
+      "correct_answer": "those chairs",
+      "explanation_tr": "Those uzak ve çoğul için kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_018",
+      "lesson_id": "CORE-E1-W1-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "These hangi durumu gösterir?",
+      "stimulus": null,
+      "options": [
+        "yakın-çoğul",
+        "uzak-tekil",
+        "yakın-tekil"
+      ],
+      "correct_answer": "yakın-çoğul",
+      "explanation_tr": "These yakın çoğuldur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_019",
+      "lesson_id": "CORE-E1-W1-L4",
+      "type": "order_tokens",
+      "prompt_tr": "Doğru ifadeyi kur.",
+      "stimulus": null,
+      "options": [
+        "phones",
+        "these"
+      ],
+      "correct_answer": [
+        "these",
+        "phones"
+      ],
+      "explanation_tr": "İşaret sözcüğü isimden önce gelir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_020",
+      "lesson_id": "CORE-E1-W1-L4",
+      "type": "true_false",
+      "prompt_tr": "That, uzaktaki tek bir şeyi gösterebilir.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "That uzak ve tekil için kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_021",
+      "lesson_id": "CORE-E1-W2-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "I ___ ready.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct_answer": "am",
+      "explanation_tr": "I ile am kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_022",
+      "lesson_id": "CORE-E1-W2-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "She ___ happy.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct_answer": "is",
+      "explanation_tr": "She ile is kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_023",
+      "lesson_id": "CORE-E1-W2-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "They ___ tired.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct_answer": "are",
+      "explanation_tr": "They ile are kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_024",
+      "lesson_id": "CORE-E1-W2-L1",
+      "type": "order_tokens",
+      "prompt_tr": "Cümleyi kur.",
+      "stimulus": null,
+      "options": [
+        "ready",
+        "are",
+        "we"
+      ],
+      "correct_answer": [
+        "we",
+        "are",
+        "ready"
+      ],
+      "explanation_tr": "Özne + are + sıfat sırası kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_025",
+      "lesson_id": "CORE-E1-W2-L1",
+      "type": "true_false",
+      "prompt_tr": "You ile are kullanılır.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "You are doğru eşleşmedir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_026",
+      "lesson_id": "CORE-E1-W2-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru cümleyi seç.",
+      "stimulus": null,
+      "options": [
+        "We studies English.",
+        "We study English.",
+        "We studying English."
+      ],
+      "correct_answer": "We study English.",
+      "explanation_tr": "We ile yalın fiil kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_027",
+      "lesson_id": "CORE-E1-W2-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "I ___ every day.",
+      "options": [
+        "work",
+        "works",
+        "working"
+      ],
+      "correct_answer": "work",
+      "explanation_tr": "I ile yalın fiil kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_028",
+      "lesson_id": "CORE-E1-W2-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Hangi cümle günlük rutin anlatır?",
+      "stimulus": null,
+      "options": [
+        "They walk to work.",
+        "Walk they work.",
+        "They to work walk."
+      ],
+      "correct_answer": "They walk to work.",
+      "explanation_tr": "Özne + fiil + tamamlayıcı sırası doğrudur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_029",
+      "lesson_id": "CORE-E1-W2-L2",
+      "type": "order_tokens",
+      "prompt_tr": "Cümleyi kur.",
+      "stimulus": null,
+      "options": [
+        "English",
+        "study",
+        "we"
+      ],
+      "correct_answer": [
+        "we",
+        "study",
+        "English"
+      ],
+      "explanation_tr": "Özne + fiil + nesne sırası.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_030",
+      "lesson_id": "CORE-E1-W2-L2",
+      "type": "true_false",
+      "prompt_tr": "They ile olumlu geniş zamanda fiile zorunlu s eklenmez.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "They read ve they work gibi yalın fiil kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_031",
+      "lesson_id": "CORE-E1-W2-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "He ___ football.",
+      "options": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "correct_answer": "plays",
+      "explanation_tr": "He ile olumlu geniş zamanda fiil s alır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_032",
+      "lesson_id": "CORE-E1-W2-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru cümle hangisidir?",
+      "stimulus": null,
+      "options": [
+        "She watch a film.",
+        "She watches a film.",
+        "She watching a film."
+      ],
+      "correct_answer": "She watches a film.",
+      "explanation_tr": "Watch, she ile watches olur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_033",
+      "lesson_id": "CORE-E1-W2-L3",
+      "type": "multiple_choice",
+      "prompt_tr": "Have fiili he ile hangi biçimi alır?",
+      "stimulus": null,
+      "options": [
+        "haves",
+        "has",
+        "have"
+      ],
+      "correct_answer": "has",
+      "explanation_tr": "He has sık kullanılan özel biçimdir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_034",
+      "lesson_id": "CORE-E1-W2-L3",
+      "type": "order_tokens",
+      "prompt_tr": "Cümleyi kur.",
+      "stimulus": null,
+      "options": [
+        "music",
+        "likes",
+        "Ece"
+      ],
+      "correct_answer": [
+        "Ece",
+        "likes",
+        "music"
+      ],
+      "explanation_tr": "Üçüncü tekil özne + fiil-s + nesne.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_035",
+      "lesson_id": "CORE-E1-W2-L3",
+      "type": "true_false",
+      "prompt_tr": "It goes ifadesinde go fiili goes biçimine dönüşür.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "Go üçüncü tekilde goes olur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_036",
+      "lesson_id": "CORE-E1-W2-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "Boşluğu tamamla.",
+      "stimulus": "Where ___ you live?",
+      "options": [
+        "do",
+        "does",
+        "is"
+      ],
+      "correct_answer": "do",
+      "explanation_tr": "You ile do kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_037",
+      "lesson_id": "CORE-E1-W2-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru soru hangisidir?",
+      "stimulus": null,
+      "options": [
+        "Does she work here?",
+        "Does she works here?",
+        "Do she work here?"
+      ],
+      "correct_answer": "Does she work here?",
+      "explanation_tr": "Does sonrası ana fiil yalın kalır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_038",
+      "lesson_id": "CORE-E1-W2-L4",
+      "type": "multiple_choice",
+      "prompt_tr": "“Ne zaman?” için hangi soru sözcüğü kullanılır?",
+      "stimulus": null,
+      "options": [
+        "where",
+        "when",
+        "why"
+      ],
+      "correct_answer": "when",
+      "explanation_tr": "When, ne zaman anlamındadır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_039",
+      "lesson_id": "CORE-E1-W2-L4",
+      "type": "order_tokens",
+      "prompt_tr": "Soruyu kur.",
+      "stimulus": null,
+      "options": [
+        "they",
+        "where",
+        "live",
+        "do"
+      ],
+      "correct_answer": [
+        "where",
+        "do",
+        "they",
+        "live"
+      ],
+      "explanation_tr": "Soru sözcüğü + do + özne + yalın fiil.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_040",
+      "lesson_id": "CORE-E1-W2-L4",
+      "type": "true_false",
+      "prompt_tr": "Does kullanıldığında ana fiil yalın biçimde kalır.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "Does she like doğru yapıdır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_041",
+      "lesson_id": "CORE-E1-W3-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Tek bir masa için doğru başlangıç hangisidir?",
+      "stimulus": "___ a table in the room.",
+      "options": [
+        "There is",
+        "There are",
+        "They are"
+      ],
+      "correct_answer": "There is",
+      "explanation_tr": "Tekil isimle there is kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_042",
+      "lesson_id": "CORE-E1-W3-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "İki sandalye için doğru başlangıç hangisidir?",
+      "stimulus": "___ two chairs.",
+      "options": [
+        "There is",
+        "There are",
+        "It is"
+      ],
+      "correct_answer": "There are",
+      "explanation_tr": "Çoğul isimle there are kullanılır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_043",
+      "lesson_id": "CORE-E1-W3-L1",
+      "type": "multiple_choice",
+      "prompt_tr": "Under ne anlama gelir?",
+      "stimulus": null,
+      "options": [
+        "üstünde",
+        "altında",
+        "yanında"
+      ],
+      "correct_answer": "altında",
+      "explanation_tr": "Under, altında demektir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_044",
+      "lesson_id": "CORE-E1-W3-L1",
+      "type": "order_tokens",
+      "prompt_tr": "Cümleyi kur.",
+      "stimulus": null,
+      "options": [
+        "room",
+        "the",
+        "in",
+        "table",
+        "a",
+        "is",
+        "there"
+      ],
+      "correct_answer": [
+        "there",
+        "is",
+        "a",
+        "table",
+        "in",
+        "the",
+        "room"
+      ],
+      "explanation_tr": "There is + nesne + konum sırası.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_045",
+      "lesson_id": "CORE-E1-W3-L1",
+      "type": "true_false",
+      "prompt_tr": "Next to, yanında anlamında kullanılabilir.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "true",
+      "explanation_tr": "İki şeyin yan yana konumunu anlatır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_046",
+      "lesson_id": "CORE-E1-W3-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru cümle hangisidir?",
+      "stimulus": null,
+      "options": [
+        "I can swim.",
+        "I can swims.",
+        "I can swimming."
+      ],
+      "correct_answer": "I can swim.",
+      "explanation_tr": "Can sonrasında fiil yalın kalır.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_047",
+      "lesson_id": "CORE-E1-W3-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Doğru soru hangisidir?",
+      "stimulus": null,
+      "options": [
+        "Can you help me?",
+        "You can help me?",
+        "Can you helps me?"
+      ],
+      "correct_answer": "Can you help me?",
+      "explanation_tr": "Soru için can başa gelir.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_048",
+      "lesson_id": "CORE-E1-W3-L2",
+      "type": "multiple_choice",
+      "prompt_tr": "Cannot ne anlatır?",
+      "stimulus": null,
+      "options": [
+        "yapabilme",
+        "yapamama",
+        "geçmiş zaman"
+      ],
+      "correct_answer": "yapamama",
+      "explanation_tr": "Cannot, can yapısının olumsuzudur.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_049",
+      "lesson_id": "CORE-E1-W3-L2",
+      "type": "order_tokens",
+      "prompt_tr": "Cümleyi kur.",
+      "stimulus": null,
+      "options": [
+        "drive",
+        "can",
+        "she"
+      ],
+      "correct_answer": [
+        "she",
+        "can",
+        "drive"
+      ],
+      "explanation_tr": "Özne + can + yalın fiil.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "question_id": "c01_question_050",
+      "lesson_id": "CORE-E1-W3-L2",
+      "type": "true_false",
+      "prompt_tr": "He can plays doğru bir yapıdır.",
+      "stimulus": null,
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "false",
+      "explanation_tr": "Can sonrasında play yalın kalır: He can play.",
+      "points": 1,
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    }
+  ]
+}

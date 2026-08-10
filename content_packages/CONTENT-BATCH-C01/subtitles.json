@@ -1,0 +1,728 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "track_id": "c01_video_01_a_sub_tr",
+      "video_id": "c01_video_01_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "LOCKED_FULL_TRACK_IN_CARRY_FORWARD_REFERENCE",
+      "source_reference": "references/CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "cues": [],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_01_b_sub_tr",
+      "video_id": "c01_video_01_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "LOCKED_FULL_TRACK_IN_CARRY_FORWARD_REFERENCE",
+      "source_reference": "references/CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "cues": [],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_02_a_sub_tr",
+      "video_id": "c01_video_02_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_02_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Bir nesne gördüğümüzde one apple deriz. Merkez isim apple tekil kalır. Sayı birden büyük olduğunda isim çoğul biçime geçer."
+        },
+        {
+          "cue_id": "c01_video_02_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Four oranges ifadesinde four sayıyı, oranges nesneleri söyler. Orange kelimesine çoğul s sesi eklenmiştir."
+        },
+        {
+          "cue_id": "c01_video_02_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Box kelimesi s sesiyle bittiği için çoğulda boxes olur. Yazım değişse de merkez isim nesnenin adıdır."
+        },
+        {
+          "cue_id": "c01_video_02_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Ekrandaki seçeneklerden four boxes ifadesini seç. Sayı ile ismin biçiminin uyumunu kontrol et."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_02_b_sub_tr",
+      "video_id": "c01_video_02_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_02_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "One child ve four children örneklerini karşılaştır. Child düzensizdir; sadece s eklemeyiz, children biçimini kullanırız."
+        },
+        {
+          "cue_id": "c01_video_02_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Person kelimesinin yaygın çoğulu people olur. Bu iki biçimi ayrı birer kelime gibi örnek içinde tekrar et."
+        },
+        {
+          "cue_id": "c01_video_02_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "One box ifadesini four ile başlat: four boxes. One apple ifadesini three ile başlat: three apples."
+        },
+        {
+          "cue_id": "c01_video_02_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Çevrenden üç nesne seç. Önce one ile tekil, sonra bir sayı ile çoğul grup kur. Sesli söyle ve yaz."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_03_a_sub_tr",
+      "video_id": "c01_video_03_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_03_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Bir şeyi ilk kez ve tekil olarak tanıtırken a veya an kullanabiliriz. Seçimi yazıdaki ilk harften çok duyduğumuz ilk sese göre yaparız."
+        },
+        {
+          "cue_id": "c01_video_03_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Pen p sesiyle başlar; a pen deriz. Umbrella ünlü bir sesle başlar; an umbrella deriz."
+        },
+        {
+          "cue_id": "c01_video_03_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "A student ve an artist örneklerini dinle. Artikel kısa söylenir ama ismin önünde açıkça yer alır."
+        },
+        {
+          "cue_id": "c01_video_03_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Ekranda an apple seçeneğini bul. Apple ünlü bir sesle başladığı için an doğru eşleşmedir."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_03_b_sub_tr",
+      "video_id": "c01_video_03_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_03_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "A red pen ifadesinde pen yerine umbrella koyarsan artikel de değişir: an umbrella veya an old umbrella dersin."
+        },
+        {
+          "cue_id": "c01_video_03_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Mesleklerde de aynı kural çalışır: a teacher, a doctor, an artist. Merkez isim mesleğin adıdır."
+        },
+        {
+          "cue_id": "c01_video_03_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "İki kart kur: birinde a ile başlayan bir isim grubu, diğerinde an ile başlayan bir isim grubu olsun."
+        },
+        {
+          "cue_id": "c01_video_03_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Tekil ismi ilk kez tanıt, ilk sesi dinle, sonra a veya an seç. Seçimini sesli tekrar et."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_04_a_sub_tr",
+      "video_id": "c01_video_04_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_04_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Elindeki tek bir telefona bak ve this phone de. This, konuşana yakın olan tek bir şeyi gösterir."
+        },
+        {
+          "cue_id": "c01_video_04_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Uzaktaki tek bir sandalye için that chair deriz. Yakınlık değiştiğinde işaret sözcüğü de değişir."
+        },
+        {
+          "cue_id": "c01_video_04_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Birden fazla yakın nesne için these, birden fazla uzak nesne için those kullanılır: these phones, those chairs."
+        },
+        {
+          "cue_id": "c01_video_04_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "İki uzak sandalyeyi gösteren ifadeyi seç. Sayı çok ve mesafe uzak olduğu için those chairs gerekir."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_04_b_sub_tr",
+      "video_id": "c01_video_04_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_04_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "This phone ifadesini çoğula dönüştür. Phone, phones olur; this ise these biçimine geçer: these phones."
+        },
+        {
+          "cue_id": "c01_video_04_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "That chair ifadesini çoğula dönüştürürsen those chairs elde edersin. Her iki parçayı birlikte değiştir."
+        },
+        {
+          "cue_id": "c01_video_04_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Odanda yakın ve uzak nesneler seç. Her biri için tekil ve çoğul birer ifade kur."
+        },
+        {
+          "cue_id": "c01_video_04_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Dört kutuyu hatırla: yakın tekil this, uzak tekil that, yakın çoğul these, uzak çoğul those."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_05_a_sub_tr",
+      "video_id": "c01_video_05_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_05_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Bir durum cümlesinde önce özneyi görürüz. I özel olarak am ile eşleşir: I am ready."
+        },
+        {
+          "cue_id": "c01_video_05_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "He, she ve it tekil gruptur; is kullanırız. He is tired, she is happy, it is small."
+        },
+        {
+          "cue_id": "c01_video_05_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "You, we ve they ile are gelir. You are ready, we are happy, they are tired."
+        },
+        {
+          "cue_id": "c01_video_05_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Ekrandaki özneye uygun parçayı seç: They boşluğuna are gelir ve They are ready cümlesi oluşur."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_05_b_sub_tr",
+      "video_id": "c01_video_05_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_05_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "I am happy cümlesini olumsuza dönüştür: I am not happy. Not, am kelimesinden sonra gelir."
+        },
+        {
+          "cue_id": "c01_video_05_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "She is ready cümlesinde özneyi we yaparsan yardımcı parça da değişir: We are ready."
+        },
+        {
+          "cue_id": "c01_video_05_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Üç cümle kur: kendin için I am, bir kişi için he veya she is, bir grup için they are kullan."
+        },
+        {
+          "cue_id": "c01_video_05_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Önce özneyi seç, sonra doğru eşini getir. I–am, he/she/it–is, you/we/they–are."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_06_a_sub_tr",
+      "video_id": "c01_video_06_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_06_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Günlük rutin anlatırken önce özneyi, sonra eylemi getiririz. I work every day cümlesinde work yaptığım işi anlatır."
+        },
+        {
+          "cue_id": "c01_video_06_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "You, we ve they ile fiilin yalın biçimini kullanırız: you read, we study, they walk."
+        },
+        {
+          "cue_id": "c01_video_06_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Zaman ifadesi cümlenin sonunda kolayca yer alabilir: We listen every morning."
+        },
+        {
+          "cue_id": "c01_video_06_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Parçaları sıraya koy: We, study, English. Doğru cümle We study English olur."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_06_b_sub_tr",
+      "video_id": "c01_video_06_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_06_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "I read books cümlesinde eylemi write ile değiştir: I write notes. Özne aynı, fiil yalın kalır."
+        },
+        {
+          "cue_id": "c01_video_06_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "We study English cümlesini they öznesiyle dönüştür: They study English. Bu özne grubunda fiile s eklenmez."
+        },
+        {
+          "cue_id": "c01_video_06_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Kendi gününden üç eylem seç. I ile başlayan üç kısa cümle kur ve birine every day ekle."
+        },
+        {
+          "cue_id": "c01_video_06_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Rutin cümlesinin iskeleti basit: özne, eylem, gerekiyorsa nesne veya zaman. Önce kısa ve doğru kur."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_07_a_sub_tr",
+      "video_id": "c01_video_07_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_07_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "I play deriz; fakat özne he olduğunda fiil küçük bir işaret alır: He plays. Bu işaret üçüncü tekil s ekidir."
+        },
+        {
+          "cue_id": "c01_video_07_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Watch gibi sesle biten bazı fiiller es alır: She watches a film. Go kelimesi de goes olur."
+        },
+        {
+          "cue_id": "c01_video_07_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Have sık kullanılan özel bir biçime dönüşür: He has a book. Bu biçimi örnek içinde tekrar ederek öğren."
+        },
+        {
+          "cue_id": "c01_video_07_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Cümleyi tamamla: She boşluk music. Doğru seçenek likes olur; çünkü özne she."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_07_b_sub_tr",
+      "video_id": "c01_video_07_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_07_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "They play football cümlesini he öznesiyle dönüştür: He plays football. Özne değişince fiil de değişir."
+        },
+        {
+          "cue_id": "c01_video_07_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "I watch a film cümlesi she ile She watches a film olur. Hem özneyi hem fiilin sonunu kontrol et."
+        },
+        {
+          "cue_id": "c01_video_07_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Tanıdığın bir kişinin üç rutinini anlat. He veya she ile başla ve fiilde gerekli s/es işaretini kullan."
+        },
+        {
+          "cue_id": "c01_video_07_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Kontrol sorusu şu: Özne he, she veya it mi? Evetse olumlu geniş zamanda fiilin sonunu yeniden kontrol et."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_08_a_sub_tr",
+      "video_id": "c01_video_08_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_08_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Geniş zamanda soru kurarken do veya does cümlenin önüne gelir. You ile Do you work here? deriz."
+        },
+        {
+          "cue_id": "c01_video_08_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "He, she ve it ile does kullanırız: Does she work here? Does geldiğinde ana fiil yalın biçime döner."
+        },
+        {
+          "cue_id": "c01_video_08_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Bilgi sorusunda soru sözcüğü en başa gelir: Where do you live? What does he read?"
+        },
+        {
+          "cue_id": "c01_video_08_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Parçaları doğru sıraya koy: where, do, they, live. Sonuç Where do they live? olur."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_08_b_sub_tr",
+      "video_id": "c01_video_08_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_08_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "You work here cümlesini soruya dönüştür: Do you work here? Özne ve fiil korunur, do başa gelir."
+        },
+        {
+          "cue_id": "c01_video_08_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "She likes music cümlesi soru olduğunda Does she like music? olur. Likes içindeki s, does üzerine taşınmış gibi düşün."
+        },
+        {
+          "cue_id": "c01_video_08_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Bir arkadaşına üç soru hazırla: biri what, biri where, biri do veya does ile başlayan evet-hayır sorusu olsun."
+        },
+        {
+          "cue_id": "c01_video_08_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Soru kontrolü: doğru soru sözcüğü, doğru do/does, özne ve yalın fiil. Bu dört parçayı sırayla gör."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_09_a_sub_tr",
+      "video_id": "c01_video_09_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_09_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Bir yerde tek bir şey olduğunu söylerken There is ile başlarız: There is a table in the room."
+        },
+        {
+          "cue_id": "c01_video_09_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Birden fazla şey için There are kullanırız: There are two chairs in the kitchen."
+        },
+        {
+          "cue_id": "c01_video_09_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Konumu in, on, under ve next to ile netleştirebiliriz. The phone is on the table örneğinde on yüzey temasını gösterir."
+        },
+        {
+          "cue_id": "c01_video_09_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "İki sandalye için doğru başlangıcı seç. Sayı çoğul olduğu için There are gerekir."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_09_b_sub_tr",
+      "video_id": "c01_video_09_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_09_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "There is a box on the table cümlesinde konumu under yap: There is a box under the table."
+        },
+        {
+          "cue_id": "c01_video_09_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Tek bir chair yerine two chairs koyunca başlangıcı da değiştir: There are two chairs in the room."
+        },
+        {
+          "cue_id": "c01_video_09_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Bir oda seç ve içinde gördüğün üç şeyi anlat. En az bir there is ve bir there are cümlesi kur."
+        },
+        {
+          "cue_id": "c01_video_09_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Önce sayıyı kontrol et, sonra is veya are seç, en sona konumu ekle. Böylece dinleyen zihninde odayı görebilir."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_10_a_sub_tr",
+      "video_id": "c01_video_10_a",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_10_a_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "Bir yeteneği can ile anlatırız: I can swim. Can kelimesinden sonra fiil her özneyle yalın kalır."
+        },
+        {
+          "cue_id": "c01_video_10_a_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "Olumsuz biçimde cannot veya kısa olarak can't kullanılır: I cannot drive today."
+        },
+        {
+          "cue_id": "c01_video_10_a_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Yardım istemek için Can you help me? diyebiliriz. Soru olduğunda can cümlenin başına gelir."
+        },
+        {
+          "cue_id": "c01_video_10_a_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Parçaları sırala: she, can, drive. Doğru cümle She can drive olur."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "track_id": "c01_video_10_b_sub_tr",
+      "video_id": "c01_video_10_b",
+      "language": "tr-TR",
+      "format_target": "WebVTT_or_SRT",
+      "track_status": "DRAFT_READY_FOR_EDITOR_REVIEW",
+      "source_reference": null,
+      "cues": [
+        {
+          "cue_id": "c01_video_10_b_cue_01",
+          "start_ms": 0,
+          "end_ms": 21750,
+          "language": "tr-TR",
+          "text": "I can swim cümlesinde özneyi they yap: They can swim. Can değişmez, fiil de yalın kalır."
+        },
+        {
+          "cue_id": "c01_video_10_b_cue_02",
+          "start_ms": 22000,
+          "end_ms": 43750,
+          "language": "tr-TR",
+          "text": "You can open the door cümlesini soruya dönüştür: Can you open the door? Sadece can başa geçer."
+        },
+        {
+          "cue_id": "c01_video_10_b_cue_03",
+          "start_ms": 44000,
+          "end_ms": 65750,
+          "language": "tr-TR",
+          "text": "Kendin için iki yetenek cümlesi ve bir yardım isteği kur. Gerçek hayatında kullanabileceğin fiilleri seç."
+        },
+        {
+          "cue_id": "c01_video_10_b_cue_04",
+          "start_ms": 66000,
+          "end_ms": 90000,
+          "language": "tr-TR",
+          "text": "Son kontrol: can veya cannot, ardından yalın fiil. He, she veya it olsa bile fiile s ekleme."
+        }
+      ],
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    }
+  ]
+}

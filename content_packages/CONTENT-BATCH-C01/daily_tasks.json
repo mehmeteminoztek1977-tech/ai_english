@@ -1,0 +1,206 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "task_id": "c01_daily_01",
+      "lesson_id": "CORE-E1-W1-L1",
+      "day": 1,
+      "title_tr": "Merkez İsim Avı",
+      "instruction_tr": "Evinizde beş nesne seçin. Her nesne için sayı + özellik + isim biçiminde bir grup kurun.",
+      "steps_tr": [
+        "Beş İngilizce isim grubu yaz.",
+        "Her grupta merkez ismin altını çiz.",
+        "İki grubu sesli oku."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "5 grubun 5'inde merkez isim doğru işaretlenir.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_02",
+      "lesson_id": "CORE-E1-W1-L2",
+      "day": 2,
+      "title_tr": "Tekilden Çoğula",
+      "instruction_tr": "Beş tekil isim seçip her birini bir sayı kullanarak çoğula dönüştürün.",
+      "steps_tr": [
+        "One ile tekil grubu yaz.",
+        "Two veya four ile çoğul grubu yaz.",
+        "Değişen isim sonunu işaretle."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "En az 4/5 dönüşüm doğru olur.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_03",
+      "lesson_id": "CORE-E1-W1-L3",
+      "day": 3,
+      "title_tr": "A/An Sepeti",
+      "instruction_tr": "Çevrenizden veya hayalinizden a ile beş, an ile beş örnek üretin.",
+      "steps_tr": [
+        "İlk sesi dinle.",
+        "Uygun artikeli yaz.",
+        "On örneği sesli tekrar et."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "10 örneğin en az 8'i doğru eşleşir.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_04",
+      "lesson_id": "CORE-E1-W1-L4",
+      "day": 4,
+      "title_tr": "Yakın–Uzak Dörtlemesi",
+      "instruction_tr": "Yakın ve uzak nesnelerle this, that, these, those için birer örnek kurun.",
+      "steps_tr": [
+        "Bir yakın tekil seç.",
+        "Bir uzak tekil seç.",
+        "Yakın ve uzak çoğul örnekleri ekle."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "Dört işaret sözcüğü doğru sayı ve mesafe ile kullanılır.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_05",
+      "lesson_id": "CORE-E1-W2-L1",
+      "day": 5,
+      "title_tr": "Am–Is–Are Günlüğü",
+      "instruction_tr": "Kendiniz ve çevrenizdeki kişiler için altı kısa durum cümlesi yazın.",
+      "steps_tr": [
+        "I am ile iki cümle.",
+        "He veya she is ile iki cümle.",
+        "We veya they are ile iki cümle."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "6 cümlenin en az 5'inde eşleşme doğrudur.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_06",
+      "lesson_id": "CORE-E1-W2-L2",
+      "day": 6,
+      "title_tr": "Günlük Rutin Kartı",
+      "instruction_tr": "Günlük hayatınızdan beş eylemi I ile, ikisini we veya they ile anlatın.",
+      "steps_tr": [
+        "Fiilleri seç.",
+        "Kısa cümleler kur.",
+        "Bir cümleye every day ekle."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "7 cümlenin en az 6'sında yalın fiil kullanılır.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_07",
+      "lesson_id": "CORE-E1-W2-L3",
+      "day": 7,
+      "title_tr": "Bir Kişiyi Anlat",
+      "instruction_tr": "Tanıdığınız bir kişinin beş rutinini he veya she ile yazın.",
+      "steps_tr": [
+        "Kişiyi seç.",
+        "Beş farklı fiil kullan.",
+        "Fiil sonlarını s/es açısından kontrol et."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "5 cümlenin en az 4'ünde üçüncü tekil biçim doğrudur.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_08",
+      "lesson_id": "CORE-E1-W2-L4",
+      "day": 8,
+      "title_tr": "Beş Soru",
+      "instruction_tr": "Bir arkadaşınıza sorabileceğiniz beş geniş zaman sorusu hazırlayın.",
+      "steps_tr": [
+        "İki evet-hayır sorusu yaz.",
+        "Üç farklı soru sözcüğü kullan.",
+        "Does sonrası fiili yalın bırak."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "5 sorunun en az 4'ünde soru sırası doğrudur.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_09",
+      "lesson_id": "CORE-E1-W3-L1",
+      "day": 9,
+      "title_tr": "Odayı Tarif Et",
+      "instruction_tr": "Bir odadaki nesneleri there is/are ve konum sözcükleriyle tarif edin.",
+      "steps_tr": [
+        "Bir tekil varlık cümlesi.",
+        "Bir çoğul varlık cümlesi.",
+        "In, on, under veya next to ile üç konum cümlesi."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "Toplam 5 cümlede sayı ve konum uyumu korunur.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    },
+    {
+      "task_id": "c01_daily_10",
+      "lesson_id": "CORE-E1-W3-L2",
+      "day": 10,
+      "title_tr": "Yetenek ve Yardım",
+      "instruction_tr": "Üç yeteneğinizi, bir yapamadığınız şeyi ve iki yardım isteğini yazın.",
+      "steps_tr": [
+        "Üç I can cümlesi.",
+        "Bir I cannot cümlesi.",
+        "İki Can you...? sorusu."
+      ],
+      "estimated_minutes": 10,
+      "learner_evidence": [
+        "typed_response",
+        "optional_voice_recording"
+      ],
+      "success_criteria_tr": "6 cümlede can/cannot sonrası fiil yalın kalır.",
+      "retry_policy": "Hatalı örnekler ipucuyla yeniden denenir; doğru cevap gösterilmeden önce en fazla 3 deneme.",
+      "content_origin": "ORIGINAL_PROJECT_CONTENT"
+    }
+  ]
+}

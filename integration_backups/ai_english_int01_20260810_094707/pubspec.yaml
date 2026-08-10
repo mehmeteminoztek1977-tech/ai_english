@@ -1,0 +1,28 @@
+name: ai_english_int01
+description: CORE-E1-W1-L1 INT-01 interaction and timed-token Flutter package.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  shared_preferences: ">=2.3.0 <3.0.0"
+  video_player: ">=2.9.0 <3.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ">=4.0.0 <7.0.0"
+
+flutter:
+  generate: true
+  assets:
+    - assets/interactions/CORE-E1-W1-L1_INT-01_v1.0.json
+

@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "AI English",
+    "slug": "aienglish",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "android": {
+      "package": "com.server.aienglish",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8731773c-80a1-42ef-ab67-0b68992af0c8"
+      }
+    }
+  }
+}

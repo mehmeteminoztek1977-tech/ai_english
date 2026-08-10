@@ -1,0 +1,466 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "records": [
+    {
+      "dialogue_id": "c01_dialogue_01",
+      "lesson_id": "CORE-E1-W1-L1",
+      "title_tr": "Kitapları Bul",
+      "scenario_tr": "İki öğrenci masadaki nesneleri inceler.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "What do you see?",
+          "turkish_translation": "Ne görüyorsun?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "I see two blue books.",
+          "turkish_translation": "İki mavi kitap görüyorum."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Which word names the objects?",
+          "turkish_translation": "Nesneleri hangi kelime adlandırıyor?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "Books.",
+          "turkish_translation": "Books."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Good. What does blue tell us?",
+          "turkish_translation": "Güzel. Blue bize ne anlatıyor?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "It tells us the color.",
+          "turkish_translation": "Bize rengi anlatıyor."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_02",
+      "lesson_id": "CORE-E1-W1-L2",
+      "title_tr": "Kutuları Say",
+      "scenario_tr": "İki kişi depodaki kutuları sayar.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "How many boxes are there?",
+          "turkish_translation": "Kaç kutu var?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "There are four boxes.",
+          "turkish_translation": "Dört kutu var."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Is there one big box?",
+          "turkish_translation": "Bir büyük kutu var mı?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "Yes, there is one big box.",
+          "turkish_translation": "Evet, bir büyük kutu var."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "And the small boxes?",
+          "turkish_translation": "Peki küçük kutular?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "There are three small boxes.",
+          "turkish_translation": "Üç küçük kutu var."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_03",
+      "lesson_id": "CORE-E1-W1-L3",
+      "title_tr": "Sınıftaki Nesne",
+      "scenario_tr": "Bir öğrenci sınıfta bir nesneyi tanıtır.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "What is this?",
+          "turkish_translation": "Bu nedir?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "It is a pen.",
+          "turkish_translation": "Bu bir kalem."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "And what is that?",
+          "turkish_translation": "Peki şu nedir?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "It is an umbrella.",
+          "turkish_translation": "O bir şemsiye."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Is Ada a student?",
+          "turkish_translation": "Ada öğrenci mi?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "No, she is an artist.",
+          "turkish_translation": "Hayır, o bir sanatçı."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_04",
+      "lesson_id": "CORE-E1-W1-L4",
+      "title_tr": "Yakındaki ve Uzaktaki Telefonlar",
+      "scenario_tr": "Bir mağazada telefonlar gösterilir.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "Is this phone new?",
+          "turkish_translation": "Bu telefon yeni mi?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "Yes, this phone is new.",
+          "turkish_translation": "Evet, bu telefon yeni."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Are those phones new too?",
+          "turkish_translation": "Şu telefonlar da yeni mi?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "No, those phones are old.",
+          "turkish_translation": "Hayır, şu telefonlar eski."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "What about these phones?",
+          "turkish_translation": "Peki bu telefonlar?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "These phones are small and new.",
+          "turkish_translation": "Bu telefonlar küçük ve yeni."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_05",
+      "lesson_id": "CORE-E1-W2-L1",
+      "title_tr": "Hazır mısın?",
+      "scenario_tr": "İki arkadaş dersten önce konuşur.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "Are you ready?",
+          "turkish_translation": "Hazır mısın?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "Yes, I am ready.",
+          "turkish_translation": "Evet, hazırım."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Is Ece ready?",
+          "turkish_translation": "Ece hazır mı?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "No, she is tired.",
+          "turkish_translation": "Hayır, o yorgun."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Are Ali and Ece here?",
+          "turkish_translation": "Ali ve Ece burada mı?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "Yes, they are here.",
+          "turkish_translation": "Evet, onlar burada."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_06",
+      "lesson_id": "CORE-E1-W2-L2",
+      "title_tr": "Günlük Rutin",
+      "scenario_tr": "İki kişi günlük alışkanlıklarını karşılaştırır.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "Do you work every day?",
+          "turkish_translation": "Her gün çalışır mısın?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "Yes, I work every day.",
+          "turkish_translation": "Evet, her gün çalışırım."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Do you study English?",
+          "turkish_translation": "İngilizce çalışır mısın?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "Yes, I study in the evening.",
+          "turkish_translation": "Evet, akşam çalışırım."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Do you walk to work?",
+          "turkish_translation": "İşe yürür müsün?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "Yes, I walk to work.",
+          "turkish_translation": "Evet, işe yürürüm."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_07",
+      "lesson_id": "CORE-E1-W2-L3",
+      "title_tr": "Ece'nin Günü",
+      "scenario_tr": "İki kişi Ece'nin rutinini anlatır.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "What does Ece do in the morning?",
+          "turkish_translation": "Ece sabah ne yapar?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "She walks in the morning.",
+          "turkish_translation": "O sabah yürür."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Does she work?",
+          "turkish_translation": "O çalışır mı?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "Yes, she works at a school.",
+          "turkish_translation": "Evet, bir okulda çalışır."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "What does she do in the evening?",
+          "turkish_translation": "Akşam ne yapar?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "She usually reads.",
+          "turkish_translation": "O genellikle okur."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_08",
+      "lesson_id": "CORE-E1-W2-L4",
+      "title_tr": "Tanışma Soruları",
+      "scenario_tr": "Yeni tanışan iki kişi temel sorular sorar.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "Where do you live?",
+          "turkish_translation": "Nerede yaşıyorsun?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "I live in Ankara.",
+          "turkish_translation": "Ankara'da yaşıyorum."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "What do you do?",
+          "turkish_translation": "Ne iş yapıyorsun?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "I am a teacher.",
+          "turkish_translation": "Öğretmenim."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Why do you study English?",
+          "turkish_translation": "Neden İngilizce çalışıyorsun?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "I need English for work.",
+          "turkish_translation": "İş için İngilizceye ihtiyacım var."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_09",
+      "lesson_id": "CORE-E1-W3-L1",
+      "title_tr": "Ev Turu",
+      "scenario_tr": "Bir kişi evini arkadaşına gösterir.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "What is in this room?",
+          "turkish_translation": "Bu odada ne var?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "There is a table and two chairs.",
+          "turkish_translation": "Bir masa ve iki sandalye var."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Where is the kitchen?",
+          "turkish_translation": "Mutfak nerede?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "It is next to the bedroom.",
+          "turkish_translation": "Yatak odasının yanında."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "Is the bathroom next to the bedroom?",
+          "turkish_translation": "Banyo yatak odasının yanında mı?"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "No, it is next to the kitchen.",
+          "turkish_translation": "Hayır, mutfağın yanında."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    },
+    {
+      "dialogue_id": "c01_dialogue_10",
+      "lesson_id": "CORE-E1-W3-L2",
+      "title_tr": "Yardım İste",
+      "scenario_tr": "Bir kişi ağır bir kutu için yardım ister.",
+      "turns": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "english_text": "Can you help me?",
+          "turkish_translation": "Bana yardım edebilir misin?"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "english_text": "Yes, I can help.",
+          "turkish_translation": "Evet, yardım edebilirim."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "english_text": "Can you carry this box?",
+          "turkish_translation": "Bu kutuyu taşıyabilir misin?"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "english_text": "Yes, but I cannot open the door.",
+          "turkish_translation": "Evet, ama kapıyı açamıyorum."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "english_text": "I can open it.",
+          "turkish_translation": "Ben açabilirim."
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "english_text": "Thank you.",
+          "turkish_translation": "Teşekkür ederim."
+        }
+      ],
+      "content_origin": "ORIGINAL_PROJECT_CONTENT",
+      "review_status": "EDITOR_REVIEW_REQUIRED"
+    }
+  ]
+}

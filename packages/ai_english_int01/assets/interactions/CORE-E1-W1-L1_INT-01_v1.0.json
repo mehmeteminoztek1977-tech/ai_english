@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "contractStatus": "APPROVED_LOCKED",
+  "lessonId": "CORE-E1-W1-L1",
+  "motion": {
+    "frameRate": 30,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "translateYPx": -24,
+    "opacity": { "from": 0, "to": 1 },
+    "focusPulse": [1.0, 1.03, 1.0],
+    "haloLeadFrames": 4,
+    "events": [
+      { "timeMs": 36000, "frame": 1080, "role": "Quantity", "tokenId": "t1", "text": "two" },
+      { "timeMs": 38000, "frame": 1140, "role": "Adjective", "tokenId": "t2", "text": "blue" },
+      { "timeMs": 40000, "frame": 1200, "role": "HeadNoun", "tokenId": "t3", "text": "books" },
+      { "timeMs": 44000, "state": "COMPLETE", "nextState": "prepare_INT-01" }
+    ]
+  },
+  "interaction": {
+    "schemaVersion": "1.0",
+    "interactionId": "INT-01",
+    "lessonId": "CORE-E1-W1-L1",
+    "trigger": {
+      "timeUnit": "milliseconds",
+      "pauseAt": 50000,
+      "timeoutMs": null
+    },
+    "uiConfig": {
+      "selectionModel": "single",
+      "allowDeselect": true
+    },
+    "tokens": [
+      { "id": "t1", "role": "Quantity", "text": "two" },
+      { "id": "t2", "role": "Adjective", "text": "blue" },
+      { "id": "t3", "role": "HeadNoun", "text": "books" }
+    ],
+    "validation": {
+      "correctId": "t3",
+      "maxAttempts": 3,
+      "onCorrect": "resume_after_INT-01",
+      "onFirstFail": "show_hint_1",
+      "onSecondFail": "show_hint_2",
+      "onThirdFail": "show_solution_and_proceed"
+    },
+    "accessibility": {
+      "language": "tr-TR",
+      "screenReaderLabel": "Grubun merkez ismini seçin: two, blue, veya books."
+    }
+  },
+  "flutter": {
+    "designSize": { "width": 1080, "height": 1920 },
+    "safeAreaPx": { "top": 154, "bottom": 346 },
+    "minimumTouchTargetDp": { "width": 48, "height": 48 },
+    "statePersistence": {
+      "persistOnBackground": true,
+      "persistOnRotation": true,
+      "resumeAtMs": 50000,
+      "positiveToleranceMs": 50
+    },
+    "reducedMotion": {
+      "disableTranslate": true,
+      "disableScale": true,
+      "opacityDurationMs": 200
+    }
+  }
+}
+

@@ -1,0 +1,503 @@
+{
+  "package_id": "CONTENT-BATCH-C01",
+  "version": "1.0.0",
+  "lessons": [
+    {
+      "lesson_id": "CORE-E1-W1-L1",
+      "content_id": "AI-ENGLISH-CONTENT-001",
+      "order": 1,
+      "week": 1,
+      "title_tr": "İsmin Merkezini Bul",
+      "title_en": "Find the Head Noun",
+      "cefr": "Pre-A1–A1",
+      "objective_tr": "Öğrenen, kısa bir isim grubunda grubun ne olduğunu söyleyen merkez ismi bulur.",
+      "target_pattern": "miktar + sıfat + merkez isim",
+      "key_examples": [
+        "two blue books",
+        "three red bags"
+      ],
+      "focus": [
+        "merkez isim",
+        "miktar",
+        "sıfat"
+      ],
+      "scope_in": [
+        "kısa isim grupları",
+        "merkez ismi ayırt etme",
+        "miktar ve sıfatı görsel olarak ayırma"
+      ],
+      "scope_out": [
+        "tam sıfat sıralaması",
+        "bütün artikel kuralları",
+        "sayılabilen-sayılamayan sisteminin tamamı",
+        "relative clause"
+      ],
+      "interaction_gate": {
+        "id": "INT-01",
+        "pause_at_ms": 50000,
+        "locked": true
+      },
+      "video_mode": "LOCKED_EXISTING_FULL_SCRIPT_REFERENCE",
+      "video_reference": "CORE-E1-W1-L1_Tam_Video_Paketi_v0.1.md",
+      "script": {
+        "a": [
+          "Ekranda üç kelime görüyoruz: two, blue, books. Önce grubun tamamına bak. Grup birden fazla bilgi verir; fakat ne olduğunu söyleyen tek bir merkez vardır.",
+          "Books nesnenin adıdır. Two kaç tane olduğunu, blue ise nasıl göründüğünü anlatır. Bu nedenle books grubun merkez ismidir.",
+          "Şimdi three red bags grubunu çöz. Three miktarı, red özelliği, bags ise nesnenin adını verir. Merkez isim bags olur.",
+          "INT-01 noktasında videoyu durdur ve two blue books grubunda merkez ismi seç. Grup aslında neyi adlandırıyor?"
+        ],
+        "b": [
+          "Two blue books ifadesinde blue yerine red koyarsak ayrıntı değişir; merkez isim yine books kalır.",
+          "Miktarı three yapınca three blue books elde ederiz. Bilgi değişir, fakat grubun ne olduğunu söyleyen books yine merkezdir.",
+          "Kendi grubunu kur: önce bir miktar, sonra bir özellik, en sona nesnenin adını getir. Örneğin two small bags.",
+          "Ayrıntılar değişebilir; merkez isim grubun ne olduğunu söyler. Gör, çöz, dönüştür ve kendi grubunu kur."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W1-L2",
+      "content_id": "AI-ENGLISH-CONTENT-002",
+      "order": 2,
+      "week": 1,
+      "title_tr": "Tek mi, Çok mu?",
+      "title_en": "One or More?",
+      "cefr": "Pre-A1–A1",
+      "objective_tr": "Öğrenen, tekil ve çoğul isimleri sayılarla eşleştirir; temel -s/-es biçimlerini tanır.",
+      "target_pattern": "one + tekil isim / sayı + çoğul isim",
+      "key_examples": [
+        "one apple",
+        "four boxes"
+      ],
+      "focus": [
+        "tekil",
+        "çoğul",
+        "-s",
+        "-es"
+      ],
+      "scope_in": [
+        "one ile tekil",
+        "iki ve üzeri sayılarla çoğul",
+        "sık kullanılan child/children ve person/people"
+      ],
+      "scope_out": [
+        "bütün düzensiz çoğullar",
+        "sayılabilen-sayılamayan ayrıntıları"
+      ],
+      "interaction_gate": {
+        "id": "INT-02",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Bir nesne gördüğümüzde one apple deriz. Merkez isim apple tekil kalır. Sayı birden büyük olduğunda isim çoğul biçime geçer.",
+          "Four oranges ifadesinde four sayıyı, oranges nesneleri söyler. Orange kelimesine çoğul s sesi eklenmiştir.",
+          "Box kelimesi s sesiyle bittiği için çoğulda boxes olur. Yazım değişse de merkez isim nesnenin adıdır.",
+          "Ekrandaki seçeneklerden four boxes ifadesini seç. Sayı ile ismin biçiminin uyumunu kontrol et."
+        ],
+        "b": [
+          "One child ve four children örneklerini karşılaştır. Child düzensizdir; sadece s eklemeyiz, children biçimini kullanırız.",
+          "Person kelimesinin yaygın çoğulu people olur. Bu iki biçimi ayrı birer kelime gibi örnek içinde tekrar et.",
+          "One box ifadesini four ile başlat: four boxes. One apple ifadesini three ile başlat: three apples.",
+          "Çevrenden üç nesne seç. Önce one ile tekil, sonra bir sayı ile çoğul grup kur. Sesli söyle ve yaz."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W1-L3",
+      "content_id": "AI-ENGLISH-CONTENT-003",
+      "order": 3,
+      "week": 1,
+      "title_tr": "A mı, An mı?",
+      "title_en": "A or An?",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, tekil bir ismi ilk kez tanıtırken başlangıç sesine göre a veya an kullanır.",
+      "target_pattern": "a/an + tekil isim",
+      "key_examples": [
+        "a red pen",
+        "an old umbrella"
+      ],
+      "focus": [
+        "a",
+        "an",
+        "başlangıç sesi"
+      ],
+      "scope_in": [
+        "temel ünsüz ve ünlü ses ayrımı",
+        "meslek ve nesne tanıtma"
+      ],
+      "scope_out": [
+        "the kullanımı",
+        "bütün artikel istisnaları"
+      ],
+      "interaction_gate": {
+        "id": "INT-03",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Bir şeyi ilk kez ve tekil olarak tanıtırken a veya an kullanabiliriz. Seçimi yazıdaki ilk harften çok duyduğumuz ilk sese göre yaparız.",
+          "Pen p sesiyle başlar; a pen deriz. Umbrella ünlü bir sesle başlar; an umbrella deriz.",
+          "A student ve an artist örneklerini dinle. Artikel kısa söylenir ama ismin önünde açıkça yer alır.",
+          "Ekranda an apple seçeneğini bul. Apple ünlü bir sesle başladığı için an doğru eşleşmedir."
+        ],
+        "b": [
+          "A red pen ifadesinde pen yerine umbrella koyarsan artikel de değişir: an umbrella veya an old umbrella dersin.",
+          "Mesleklerde de aynı kural çalışır: a teacher, a doctor, an artist. Merkez isim mesleğin adıdır.",
+          "İki kart kur: birinde a ile başlayan bir isim grubu, diğerinde an ile başlayan bir isim grubu olsun.",
+          "Tekil ismi ilk kez tanıt, ilk sesi dinle, sonra a veya an seç. Seçimini sesli tekrar et."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W1-L4",
+      "content_id": "AI-ENGLISH-CONTENT-004",
+      "order": 4,
+      "week": 1,
+      "title_tr": "Yakın mı, Uzak mı?",
+      "title_en": "Near or Far?",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, uzaklık ve sayıya göre this, that, these ve those kullanır.",
+      "target_pattern": "this/that + tekil / these/those + çoğul",
+      "key_examples": [
+        "this phone",
+        "those chairs"
+      ],
+      "focus": [
+        "yakın",
+        "uzak",
+        "tekil",
+        "çoğul"
+      ],
+      "scope_in": [
+        "dört işaret sözcüğü",
+        "nesne gösterme"
+      ],
+      "scope_out": [
+        "soyut gönderimler",
+        "ileri düzey discourse kullanımı"
+      ],
+      "interaction_gate": {
+        "id": "INT-04",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Elindeki tek bir telefona bak ve this phone de. This, konuşana yakın olan tek bir şeyi gösterir.",
+          "Uzaktaki tek bir sandalye için that chair deriz. Yakınlık değiştiğinde işaret sözcüğü de değişir.",
+          "Birden fazla yakın nesne için these, birden fazla uzak nesne için those kullanılır: these phones, those chairs.",
+          "İki uzak sandalyeyi gösteren ifadeyi seç. Sayı çok ve mesafe uzak olduğu için those chairs gerekir."
+        ],
+        "b": [
+          "This phone ifadesini çoğula dönüştür. Phone, phones olur; this ise these biçimine geçer: these phones.",
+          "That chair ifadesini çoğula dönüştürürsen those chairs elde edersin. Her iki parçayı birlikte değiştir.",
+          "Odanda yakın ve uzak nesneler seç. Her biri için tekil ve çoğul birer ifade kur.",
+          "Dört kutuyu hatırla: yakın tekil this, uzak tekil that, yakın çoğul these, uzak çoğul those."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W2-L1",
+      "content_id": "AI-ENGLISH-CONTENT-005",
+      "order": 5,
+      "week": 2,
+      "title_tr": "Ben, Sen, O: Am–Is–Are",
+      "title_en": "I, You, and Others: Am–Is–Are",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, kişi zamirlerini am, is ve are ile doğru eşleştirerek kısa durum cümleleri kurar.",
+      "target_pattern": "özne + am/is/are + isim veya sıfat",
+      "key_examples": [
+        "I am ready.",
+        "They are happy."
+      ],
+      "focus": [
+        "özne",
+        "am",
+        "is",
+        "are"
+      ],
+      "scope_in": [
+        "olumlu ve temel olumsuz durum cümleleri",
+        "kişi zamirleri"
+      ],
+      "scope_out": [
+        "geçmiş zaman was/were",
+        "uzun isim cümleleri"
+      ],
+      "interaction_gate": {
+        "id": "INT-05",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Bir durum cümlesinde önce özneyi görürüz. I özel olarak am ile eşleşir: I am ready.",
+          "He, she ve it tekil gruptur; is kullanırız. He is tired, she is happy, it is small.",
+          "You, we ve they ile are gelir. You are ready, we are happy, they are tired.",
+          "Ekrandaki özneye uygun parçayı seç: They boşluğuna are gelir ve They are ready cümlesi oluşur."
+        ],
+        "b": [
+          "I am happy cümlesini olumsuza dönüştür: I am not happy. Not, am kelimesinden sonra gelir.",
+          "She is ready cümlesinde özneyi we yaparsan yardımcı parça da değişir: We are ready.",
+          "Üç cümle kur: kendin için I am, bir kişi için he veya she is, bir grup için they are kullan.",
+          "Önce özneyi seç, sonra doğru eşini getir. I–am, he/she/it–is, you/we/they–are."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W2-L2",
+      "content_id": "AI-ENGLISH-CONTENT-006",
+      "order": 6,
+      "week": 2,
+      "title_tr": "Her Gün Ne Yaparız?",
+      "title_en": "What Do We Do Every Day?",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, I/you/we/they ile günlük rutinleri yalın fiil kullanarak anlatır.",
+      "target_pattern": "I/you/we/they + yalın fiil + tamamlayıcı",
+      "key_examples": [
+        "I work every day.",
+        "We study English."
+      ],
+      "focus": [
+        "günlük rutin",
+        "yalın fiil",
+        "zaman ifadesi"
+      ],
+      "scope_in": [
+        "olumlu geniş zaman",
+        "I/you/we/they özneleri"
+      ],
+      "scope_out": [
+        "üçüncü tekil -s",
+        "do/does soruları",
+        "zaman zarflarının tüm konumları"
+      ],
+      "interaction_gate": {
+        "id": "INT-06",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Günlük rutin anlatırken önce özneyi, sonra eylemi getiririz. I work every day cümlesinde work yaptığım işi anlatır.",
+          "You, we ve they ile fiilin yalın biçimini kullanırız: you read, we study, they walk.",
+          "Zaman ifadesi cümlenin sonunda kolayca yer alabilir: We listen every morning.",
+          "Parçaları sıraya koy: We, study, English. Doğru cümle We study English olur."
+        ],
+        "b": [
+          "I read books cümlesinde eylemi write ile değiştir: I write notes. Özne aynı, fiil yalın kalır.",
+          "We study English cümlesini they öznesiyle dönüştür: They study English. Bu özne grubunda fiile s eklenmez.",
+          "Kendi gününden üç eylem seç. I ile başlayan üç kısa cümle kur ve birine every day ekle.",
+          "Rutin cümlesinin iskeleti basit: özne, eylem, gerekiyorsa nesne veya zaman. Önce kısa ve doğru kur."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W2-L3",
+      "content_id": "AI-ENGLISH-CONTENT-007",
+      "order": 7,
+      "week": 2,
+      "title_tr": "O Ne Yapar?",
+      "title_en": "What Does He or She Do?",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, he/she/it öznesiyle olumlu geniş zamanda fiilin uygun üçüncü tekil biçimini kullanır.",
+      "target_pattern": "he/she/it + fiil-s/-es",
+      "key_examples": [
+        "He plays football.",
+        "She watches a film."
+      ],
+      "focus": [
+        "üçüncü tekil",
+        "-s",
+        "-es",
+        "sık düzensiz biçimler"
+      ],
+      "scope_in": [
+        "temel -s/-es",
+        "goes ve has gibi sık biçimler"
+      ],
+      "scope_out": [
+        "bütün yazım istisnaları",
+        "soru ve olumsuz yapı"
+      ],
+      "interaction_gate": {
+        "id": "INT-07",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "I play deriz; fakat özne he olduğunda fiil küçük bir işaret alır: He plays. Bu işaret üçüncü tekil s ekidir.",
+          "Watch gibi sesle biten bazı fiiller es alır: She watches a film. Go kelimesi de goes olur.",
+          "Have sık kullanılan özel bir biçime dönüşür: He has a book. Bu biçimi örnek içinde tekrar ederek öğren.",
+          "Cümleyi tamamla: She boşluk music. Doğru seçenek likes olur; çünkü özne she."
+        ],
+        "b": [
+          "They play football cümlesini he öznesiyle dönüştür: He plays football. Özne değişince fiil de değişir.",
+          "I watch a film cümlesi she ile She watches a film olur. Hem özneyi hem fiilin sonunu kontrol et.",
+          "Tanıdığın bir kişinin üç rutinini anlat. He veya she ile başla ve fiilde gerekli s/es işaretini kullan.",
+          "Kontrol sorusu şu: Özne he, she veya it mi? Evetse olumlu geniş zamanda fiilin sonunu yeniden kontrol et."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W2-L4",
+      "content_id": "AI-ENGLISH-CONTENT-008",
+      "order": 8,
+      "week": 2,
+      "title_tr": "Do ve Does ile Soru Kur",
+      "title_en": "Ask with Do and Does",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, geniş zamanda do/does kullanarak evet-hayır ve temel bilgi soruları kurar.",
+      "target_pattern": "soru sözcüğü + do/does + özne + yalın fiil",
+      "key_examples": [
+        "Where do you live?",
+        "Does she work here?"
+      ],
+      "focus": [
+        "do",
+        "does",
+        "soru sırası",
+        "yalın fiil"
+      ],
+      "scope_in": [
+        "evet-hayır soruları",
+        "what/where/when/why/who/how ile temel sorular"
+      ],
+      "scope_out": [
+        "dolaylı sorular",
+        "karmaşık soru etiketleri"
+      ],
+      "interaction_gate": {
+        "id": "INT-08",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Geniş zamanda soru kurarken do veya does cümlenin önüne gelir. You ile Do you work here? deriz.",
+          "He, she ve it ile does kullanırız: Does she work here? Does geldiğinde ana fiil yalın biçime döner.",
+          "Bilgi sorusunda soru sözcüğü en başa gelir: Where do you live? What does he read?",
+          "Parçaları doğru sıraya koy: where, do, they, live. Sonuç Where do they live? olur."
+        ],
+        "b": [
+          "You work here cümlesini soruya dönüştür: Do you work here? Özne ve fiil korunur, do başa gelir.",
+          "She likes music cümlesi soru olduğunda Does she like music? olur. Likes içindeki s, does üzerine taşınmış gibi düşün.",
+          "Bir arkadaşına üç soru hazırla: biri what, biri where, biri do veya does ile başlayan evet-hayır sorusu olsun.",
+          "Soru kontrolü: doğru soru sözcüğü, doğru do/does, özne ve yalın fiil. Bu dört parçayı sırayla gör."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W3-L1",
+      "content_id": "AI-ENGLISH-CONTENT-009",
+      "order": 9,
+      "week": 3,
+      "title_tr": "Nerede Ne Var?",
+      "title_en": "What Is Where?",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, bir yerde bulunan tekil ve çoğul nesneleri there is/there are ve temel konum sözcükleriyle anlatır.",
+      "target_pattern": "there is/are + nesne + konum",
+      "key_examples": [
+        "There is a table in the room.",
+        "There are two chairs in the kitchen."
+      ],
+      "focus": [
+        "there is",
+        "there are",
+        "in",
+        "on",
+        "under",
+        "next to"
+      ],
+      "scope_in": [
+        "tekil-çoğul uyumu",
+        "temel konum ifadeleri"
+      ],
+      "scope_out": [
+        "ileri düzey yer edatları",
+        "varlık cümlelerinin geçmiş zamanı"
+      ],
+      "interaction_gate": {
+        "id": "INT-09",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Bir yerde tek bir şey olduğunu söylerken There is ile başlarız: There is a table in the room.",
+          "Birden fazla şey için There are kullanırız: There are two chairs in the kitchen.",
+          "Konumu in, on, under ve next to ile netleştirebiliriz. The phone is on the table örneğinde on yüzey temasını gösterir.",
+          "İki sandalye için doğru başlangıcı seç. Sayı çoğul olduğu için There are gerekir."
+        ],
+        "b": [
+          "There is a box on the table cümlesinde konumu under yap: There is a box under the table.",
+          "Tek bir chair yerine two chairs koyunca başlangıcı da değiştir: There are two chairs in the room.",
+          "Bir oda seç ve içinde gördüğün üç şeyi anlat. En az bir there is ve bir there are cümlesi kur.",
+          "Önce sayıyı kontrol et, sonra is veya are seç, en sona konumu ekle. Böylece dinleyen zihninde odayı görebilir."
+        ]
+      }
+    },
+    {
+      "lesson_id": "CORE-E1-W3-L2",
+      "content_id": "AI-ENGLISH-CONTENT-010",
+      "order": 10,
+      "week": 3,
+      "title_tr": "Yapabilirim",
+      "title_en": "I Can Do It",
+      "cefr": "A1",
+      "objective_tr": "Öğrenen, can/cannot ile yetenek bildirir ve temel yardım istekleri kurar.",
+      "target_pattern": "özne + can/cannot + yalın fiil",
+      "key_examples": [
+        "I can swim.",
+        "Can you help me?"
+      ],
+      "focus": [
+        "can",
+        "cannot",
+        "yalın fiil",
+        "rica"
+      ],
+      "scope_in": [
+        "yetenek",
+        "temel izin ve yardım isteği",
+        "kısa cevap"
+      ],
+      "scope_out": [
+        "could ile nezaket",
+        "olasılık anlamları",
+        "ileri modal yapılar"
+      ],
+      "interaction_gate": {
+        "id": "INT-10",
+        "pause_at_ms": 45000,
+        "locked": false
+      },
+      "video_mode": "NEW_MICRO_SCRIPT",
+      "script": {
+        "a": [
+          "Bir yeteneği can ile anlatırız: I can swim. Can kelimesinden sonra fiil her özneyle yalın kalır.",
+          "Olumsuz biçimde cannot veya kısa olarak can't kullanılır: I cannot drive today.",
+          "Yardım istemek için Can you help me? diyebiliriz. Soru olduğunda can cümlenin başına gelir.",
+          "Parçaları sırala: she, can, drive. Doğru cümle She can drive olur."
+        ],
+        "b": [
+          "I can swim cümlesinde özneyi they yap: They can swim. Can değişmez, fiil de yalın kalır.",
+          "You can open the door cümlesini soruya dönüştür: Can you open the door? Sadece can başa geçer.",
+          "Kendin için iki yetenek cümlesi ve bir yardım isteği kur. Gerçek hayatında kullanabileceğin fiilleri seç.",
+          "Son kontrol: can veya cannot, ardından yalın fiil. He, she veya it olsa bile fiile s ekleme."
+        ]
+      }
+    }
+  ]
+}

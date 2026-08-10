@@ -1,0 +1,24 @@
+{
+  "@@locale": "tr",
+  "int01Title": "İsmin Notası",
+  "int01Prompt": "Grubun merkez ismini seçin.",
+  "int01Submit": "Kontrol et",
+  "int01TryAgain": "Tekrar dene",
+  "int01Continue": "Devam et",
+  "int01AttemptsRemaining": "Kalan deneme: {count}",
+  "@int01AttemptsRemaining": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "int01Hint1": "İpucu: Sayıyı veya rengi değil, grubun adını düşün.",
+  "int01Hint2": "İpucu: ‘Hangi şeyler?’ sorusuna cevap veren kelimeyi seç.",
+  "int01Correct": "Doğru. ‘books’ grubun merkez ismidir.",
+  "int01Solution": "Doğru cevap ‘books’. Şimdi örnek üzerinde devam edelim.",
+  "tokenStateDefault": "Hazır",
+  "tokenStateSelected": "Seçildi",
+  "tokenStateCorrect": "Doğru",
+  "tokenStateIncorrect": "Yanlış",
+  "tokenStateDisabled": "Devre dışı"
+}
+

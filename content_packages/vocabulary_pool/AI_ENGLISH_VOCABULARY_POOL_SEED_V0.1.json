@@ -1,0 +1,88 @@
+{
+  "package_id": "ai_english_vocab_pool_seed_v0.1",
+  "master_plan": {
+    "stage": 1,
+    "task_id": 3,
+    "task_name": "Kelime ezber modülü için veritabanı kelime havuzunun oluşturulması",
+    "status": "IN_PROGRESS",
+    "completed_scope": [
+      "Schema validation",
+      "Required-field validation",
+      "Seed-record validation",
+      "Unique-ID validation"
+    ],
+    "remaining_completion_gates": [
+      "Kaynak materyallerden hedef kelime listesinin çıkarılması",
+      "Tüm kayıtların içerik ve seviye doğrulamasından geçirilmesi",
+      "Mevcut bulut vocabulary_pool tablosuna import edilmesi",
+      "Bulut okuma-yazma ve kayıt sayısı doğrulamasının PASS olması"
+    ]
+  },
+  "module": "Vocabulary Pool",
+  "source": "Taner Çağlı Eğitimi Materyalleri",
+  "source_scope": "Yalnız kullanıcı tarafından sağlanan içerik işlenmiştir",
+  "input_target_status": "Ready for ChatGPT Processing",
+  "processing_status": "SCHEMA_VALIDATED_SEED_READY_FOR_CLOUD_IMPORT",
+  "persistence_policy": {
+    "target": "Existing cloud database",
+    "local_database": false,
+    "local_persistent_storage": false
+  },
+  "vocabulary_database_schema": {
+    "table": "vocabulary_pool",
+    "fields": [
+      {
+        "name": "id",
+        "type": "String",
+        "primary_key": true,
+        "required": true
+      },
+      {
+        "name": "english_term",
+        "type": "String",
+        "required": true
+      },
+      {
+        "name": "turkish_definition",
+        "type": "String",
+        "required": true
+      },
+      {
+        "name": "module_category",
+        "type": "String",
+        "required": true
+      },
+      {
+        "name": "difficulty_level",
+        "type": "String",
+        "required": true
+      }
+    ],
+    "seed_data": [
+      {
+        "id": "tc_vocab_001",
+        "english_term": "Core Foundation",
+        "turkish_definition": "Temel altyapı ve yapı taşları",
+        "module_category": "Aşama 0 - Discovery",
+        "difficulty_level": "A1-A2"
+      },
+      {
+        "id": "tc_vocab_002",
+        "english_term": "Active Recall",
+        "turkish_definition": "Aktif hatırlama ve kalıcı ezber tekniği",
+        "module_category": "Aşama 1 - Vocabulary",
+        "difficulty_level": "B1-B2"
+      }
+    ]
+  },
+  "validation_result": {
+    "json_syntax": "PASS",
+    "schema_fields_present": "PASS",
+    "required_values_non_empty": "PASS",
+    "unique_primary_keys": "PASS",
+    "seed_record_count": 2,
+    "cloud_import": "NOT_PERFORMED",
+    "cloud_read_write_test": "NOT_PERFORMED",
+    "task_3_final_acceptance": "PENDING"
+  }
+}
